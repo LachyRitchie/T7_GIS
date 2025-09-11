@@ -1,0 +1,27 @@
+Document Title: Recording fuel use for sequestration projects
+Document Type: Web Page
+Source URL: https://cer.gov.au/schemes/australian-carbon-credit-unit-scheme/accu-scheme-methods/recording-fuel-use-sequestration-projects
+Extraction Date: 2025-08-28 13:19:43
+Content Length: 1983 characters
+Action/Task: Reporting and audits
+Method Families: Agriculture - otherAgriculture - soilVegetation - Blue CarbonVegetation - Savana fire managementVegetation - Regeneration and avoided clearingVegetation - Plantings and forestry
+Guidance Type: Regulatory
+Currency: Latest version
+Source: main_table
+--------------------------------------------------------------------------------
+
+​Anyone responsible for a sequestration project must keep records of the quantity and types of fuel used to establish and maintain the project. This information is needed to calculate on-farm emissions for project activities for each reporting period.
+The information below highlights some of the records that must be kept that are common to all sequestration projects.
+It is important to note however that scheme participants must comply with all the record-keeping requirements specified in the method they have chosen to use to support their application for Australian carbon credit units.
+Project activities
+Keep records of fuel used for inspecting and preparing the project site, constructing and maintaining fire control lines, monitoring carbon estimation areas and conducting project management activities. Records of fuel used for transporting plant and machinery or goods and services to the farm are not needed.
+Types of records
+Records may include invoices; vehicle logbooks; records of project activity; or calculations of consumption based on hourly, per hectare or per km consumption rates.
+Estimating fuel use
+If it is not feasible or practical to record the fuel used precisely, record sufficient information to produce a conservative estimate for each type of fuel used; a conservative estimate slightly overestimates rather than underestimates.
+To distinguish fuel used for project activities from fuel used for non-project activities, estimates of fuel used for projects may be based on the percentage of time spent on project activities and the average fuel consumption of vehicles or machinery used.
+General notes on record-keeping for your project
+When setting up your project’s record-keeping processes, make sure to consider the following:
+Are you collecting your data efficiently?
+Will you be able to maintain your data in the event of an emergency such as fire or flood?
+Are you collating data in a way that will assist an auditor’s review of your project?

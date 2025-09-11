@@ -1,0 +1,24 @@
+Document Title: Meeting the requirements of 'regulatory additionality' with conservation covenants
+Document Type: Web Page
+Source URL: https://cer.gov.au/schemes/australian-carbon-credit-unit-scheme/accu-scheme-methods/avoided-clearing-native-regrowth-method/meeting-requirements-regulatory-additionality-conservation-covenants
+Extraction Date: 2025-08-28 13:19:35
+Content Length: 1728 characters
+Action/Task: Planning and registering projects
+Method Families: Agriculture - otherAgriculture - soilVegetation - Blue CarbonVegetation - Savana fire managementVegetation - Regeneration and avoided clearingVegetation - Plantings and forestry
+Guidance Type: Regulatory
+Currency: Latest version(relates to a closed method)
+Source: main_table
+--------------------------------------------------------------------------------
+
+Scheme participants may be able to enter into a conservation covenant with their state or territory government provided they can show their project meets the regulatory additionality requirement of the Emissions Reduction Fund.
+Conservation covenants are agreements entered into voluntarily, but require the land holder to carry out certain activities by law.
+To meet the regulatory additionality requirement of the Emissions Reduction Fund, scheme participants must demonstrate that a reduction in emissions would not occur without their project.
+Under section 27(4A)(b) of the
+Carbon Farming Initiative Act 2011
+, the regulatory additionality requirement is met when:
+a project is not required to be carried out by or under a law of the Commonwealth, state or territory government, or
+the method that is used by a project specifies one or more requirements that are ‘in lieu’ of the regulatory additionality requirement.
+This means there are two ways participants may be able to enter a conservation covenant and run a project on the same land under the Emissions Reduction Fund.
+First, the regulatory additionality requirement does not apply to activities required under a conservation covenant that has been entered into voluntarily with a Commonwealth, state, territory or local government body or authority.
+Second, Emissions Reduction Fund methods may include a requirement in place (‘in lieu’) of the regulatory additionality requirement. This ‘in lieu’ requirement may allow project activities to be carried out on land where a conservation covenant is in place.
+An example is the Avoided Deforestation 1.1 method. It has the ‘in lieu’ requirement that allows conservation covenants to be entered into for project land.

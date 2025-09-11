@@ -1,0 +1,26 @@
+{
+  "systemPromptFile": ".cursor_context/GIS_ENGINEER_SYSTEM_PROMPT.md",
+  "defaultModel": "claude-3-5-sonnet-20241022",
+  "autoLoadSystemPrompt": true,
+  "contextWindowLimit": 200000,
+  "features": {
+    "alwaysSearchProject": true,
+    "codebaseIndexing": true,
+    "gitIntegration": true
+  },
+  "customInstructions": "Always check /Volumes/T7 Shield/02_KNOWLEDGE_BASE/ before web search. Use absolute paths. Follow ACCU compliance requirements strictly.",
+  "folders": [
+    {
+      "path": "01_PROJECTS",
+      "name": "Projects"
+    },
+    {
+      "path": "02_KNOWLEDGE_BASE",
+      "name": "Knowledge Base"
+    },
+    {
+      "path": "03_DATA",
+      "name": "Shared Data"
+    }
+  ]
+}

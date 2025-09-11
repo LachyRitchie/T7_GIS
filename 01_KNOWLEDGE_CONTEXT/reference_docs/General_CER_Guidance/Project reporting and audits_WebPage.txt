@@ -1,0 +1,170 @@
+Document Title: Project reporting and audits
+Document Type: Web Page
+Source URL: https://cer.gov.au/schemes/australian-carbon-credit-unit-scheme/how-to-participate-accu-scheme/project-reporting-and-audits
+Extraction Date: 2025-08-28 13:19:42
+Content Length: 10260 characters
+Action/Task: Reporting and audits
+Method Families: All methods
+Guidance Type: Regulatory
+Currency: Latest version
+Source: main_table
+--------------------------------------------------------------------------------
+
+To be eligible for
+Australian carbon credit units (ACCUs)
+, you must regularly report on your project.
+You also need to have your project audited to ensure the abatement reported is accurate.
+Project reporting
+You must complete an ACCU Scheme project report and crediting form in Online Services for every reporting period. Use this form to report on your project and
+apply for ACCUs
+.
+Check your project's method
+Each method sets out what information you must include in your report, as well as specific instructions on how to calculate abatement. Make sure you understand the reporting and record-keeping requirements for your
+project's method
+.
+You need to provide:
+an eligible offsets report covering the reporting period
+a signed application for ACCUs
+an audit report, if required by your audit schedule
+supporting documentation specific to your method (for example, a SavBAT report for savanna burning methods).
+Mapping requirements
+If your project is under an area-based method, you must supply geospatial data.
+Find out more about
+mapping requirements
+.
+Reporting period
+You can choose when to report on your project, subject to minimum and maximum reporting periods. You must report at least every:
+2 years for emissions avoidance projects
+5 years for sequestration projects.
+At minimum, a reporting period must cover either:
+one month, if net abatement for the period is 2,000 tonnes of carbon dioxide equivalent (t CO
+2
+-e) or more
+a 6-month period, if net abatement for the period is less than 2,000 t CO
+2
+-e.
+The first reporting period begins at the start of your project’s crediting period. Each new reporting period begins immediately after the previous reporting period. You must submit a project report within 6 months of the end of each reporting period, unless the method specifies otherwise.
+All projects must submit offsets reports throughout the entire crediting period. Some sequestration projects must also continue to submit offsets reports for the duration of the permanence period. Find out more about
+post-crediting period obligations for sequestration projects
+.
+Late reporting
+You must submit project reports on time, regardless of whether you are applying for ACCUs at the same time.
+If you can't submit your project report on time, you must notify us at least 3 months before the reporting deadline.
+We don't always approve requests to report late – we assess each request on its merits. After the first project report, we won't accept further delays in providing project reports.
+Late reporting is a serious breach of the law. If you don't submit your report by the deadline, you may fail the fit and proper person test. This could result in your projects being revoked and affect your right to be issued ACCUs. It will also expose you to the risk of a civil penalty order being made against you. We may take action against late reporting or failure to report. Find out more about
+our compliance approach
+.
+If your project has unfulfilled conditions about eligible interest holder consents or regulatory approval, ACCUs will not be issued.
+Processing times
+We assess applications for ACCUs against the eligibility requirements for your project's method.
+We have up to 90 days to process crediting applications.
+Sometimes we request further information from you. If you don't provide this information, we may refuse to assess your report or
+issue ACCUs.
+Audits
+All audits need to establish
+reasonable assurance
+that the abatement achieved and reported on by a project is accurate. We adopt a risk-based approach to streamline audit requirements while upholding the integrity of ACCUs.
+Where a project report must include an audit, we won't issue ACCUs unless the audit is provided with the project report.
+Audit schedule
+We set an audit schedule for your project when it's registered, which sets out:
+the level of assurance
+frequency of audits
+scope of audits.
+The number of scheduled audits is based on your project's size and depends on the
+average annual abatement the project expects to generate
+. For most projects, we schedule at least 3 audits during the crediting period.
+We use the
+Carbon Credits (Carbon Farming Initiative) (Audit Thresholds) Instrument 2025
+to determine the audit schedule.
+Audit types
+There are 3 types of audits:
+initial audits
+subsequent audits
+unscheduled or triggered audits.
+Initial audits
+Show
+You must submit an initial audit report with your first project report. Initial audit reports give us confidence that your project is being run in accordance with the legislative requirements.
+If your project reports more often than every 6 months, the initial audit must cover at least 6 months. You must submit it with the final report for the initial 6-month period. We recommend you complete and submit the initial audit report as soon as possible after the initial 6-month period.
+The initial audit will cover the:
+project registration and assessment of the
+forward abatement
+schedule
+report for the first reporting period, including the accuracy of the measurement of abatement to date
+operation of the project
+all other matters relating to the establishment and operation of the project in accordance with the
+Carbon Credits (Carbon Farming Initiative)​ Act 2011
+and the relevant method.
+Subsequent audits
+Show
+You must submit subsequent audit reports as set out in your project audit schedule.
+The audit schedule ensures your project is audited across periods of peak abatement. We use scheduled audits to establish reasonable assurance that the abatement achieved and reported by a project is accurate.
+Subsequent audits cover a minimum reporting period of 12 months.
+Unscheduled or triggered audits
+Show
+Where a project report for a period claims more than 100,000 t CO
+2
+-e of abatement, an additional audit is required. Under the ACCU Scheme, these are sometimes called threshold audits.
+We will decide the full scope of threshold audits. We recommend contacting us before you finalise a threshold audit with the auditor.
+Rescheduling audits
+You may be able to reschedule subsequent audits when:
+the net abatement for a reporting period is 0 t CO
+2
+-e
+a threshold (triggered) audit is required for a reporting period and a subsequent audit is scheduled to happen around the same time. In this situation, it may be possible to use a single audit to meet the requirements of the threshold and subsequent audits.
+The decision to amend an audit schedule is at our discretion. It will only be agreed where it maintains the project's level of assurance throughout its crediting period. You must contact us to discuss the possibility of rescheduling audits.
+Alternative assurance
+The
+CFI Rule
+and the
+Audit Thresholds Instrument
+allow our Board to reduce the required number of scheduled audits for classes of projects they consider low risk. You must be able to demonstrate alternative assurance mechanisms, such as geospatial monitoring.
+There are currently 3 classes of projects eligible for alternative assurance:
+Low-risk plantation forestry projects
+with one scheduled audit (the initial audit).
+Low-risk environmental plantings 2014 projects that require zero scheduled audits – the
+environmental plantings 2014 method
+has closed but existing alternative assurance projects can continue as normal. Projects already registered under the 2014 method may apply for alternative assurance arrangements.
+Low-risk environmental plantings 2024 projects – this is a new low-risk class of projects that requires zero scheduled audits under the
+reforestation by environmental or mallee plantings FullCAM method 2024
+.
+You can now apply for an alternative assurance arrangement under each of the project classes linked above.
+Other classes of projects
+Show
+Our Board considers if other classes of projects could be suitable for alternative assurance arrangements.
+When we receive a proposal for a new class of project, we use
+assessment framework
+to determine if the proposal is suitable. This framework was used to assess the proposal for low-risk environmental plantings 2024 projects.
+Stakeholders can submit proposals for consideration by emailing
+enquiries@cer.gov.au
+.
+Choosing an auditor
+All ACCU Scheme project audits must be undertaken by a
+registered category 2 greenhouse and energy auditor
+. You can find a list of auditors with their company, location and conditions of registration on the
+Register of Greenhouse and Energy Auditors
+.
+We recommend you engage an auditor early when developing your project. This allows you to establish costs and sound reporting and record-keeping processes from the beginning of your project. You are responsible for audit costs.
+You must make all necessary documents and information available to the auditor. This includes data records, receipts and other supporting documentation.
+We will have more confidence in your project if you engage at least 2 auditors from different companies over the life of your project. For example, for a project with 3 audits, you should engage an auditor to complete 2 audits, and a second auditor from another company to complete the other one. It's less likely you will be selected for additional audits if you follow this process.
+You may also want to consider hiring a consultant to help develop your project. The auditor and consultant should not be the same person or entity – this is to avoid conflicts of interest, which undermine the integrity of audits under the ACCU Scheme.
+For more details, view our
+webinar on audits of area-based methods under the ACCU Scheme
+.
+Find out more
+Emissions reduction
+ACCU
+Apply for ACCUs
+Find out how to apply for Australian carbon credit units to sell on the secondary market or to the Australian Government.
+arrow_right_alt
+ACCU
+Forward abatement estimates
+Understand how you can estimate the total amount of carbon abatement for your Australian Carbon Credit Unit (ACCU) Scheme project.
+arrow_right_alt
+ACCU
+Dividing a project into parts for separate reporting
+Find out what your reporting obligations are and how to apply for Australian carbon credit units (ACCUs) if you divide a project into separate parts.
+arrow_right_alt
+Audit
+Audits in our schemes
+Audits help us check if scheme participants are reporting accurately and complying with legislation.
+arrow_right_alt

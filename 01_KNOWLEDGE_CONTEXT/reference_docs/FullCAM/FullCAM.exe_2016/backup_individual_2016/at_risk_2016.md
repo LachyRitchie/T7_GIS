@@ -1,0 +1,24 @@
+---
+title: At Risk
+version: 2016
+category: Risk Analysis
+original_file: 271_At Risk_2016.md
+---
+
+\@Risk (pronounced "at-risk") is third-party commercial off-the-shelf
+software used by FullCAM for performing risk analyses. \@Risk is
+available from the publisher, Palisade
+Corporation.
+
+To perform an analysis, the \@Risk software must be installed and
+licenced on your computer.
+
+Sensitivity analysis uses \@Risk RDK
+software. FullCAM and \@Risk work together to do the sensitivity
+analysis. Use the FullCAM interface to organise and initiate the
+sensitivity analysis, and when the analysis is completed FullCAM will
+direct you to look at the results in the \@Risk window.
+
+The \@Risk software is a product of Palisade Corporation. Department of
+Environment recognises and acknowledges all trademarks and intellectual
+property belonging to Pallisade Corporation.

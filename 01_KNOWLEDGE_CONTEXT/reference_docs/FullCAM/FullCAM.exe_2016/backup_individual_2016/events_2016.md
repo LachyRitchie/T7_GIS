@@ -1,0 +1,126 @@
+---
+title: Events
+version: 2016
+category: Events
+original_file: 136_Events_2016.md
+---
+
+[*Events* page of the input window of a plot document]
+
+This page shows the regimes and events that can occur during a
+simulation.
+
+Each simulation step consists of continuous processes (such as growth or
+decomposition) punctuated by any events that occur during that step ---
+see Processes and Events.
+
+**Regime and Event Queue**
+
+The events are presented on the page in a list, one event per line.
+
+To view or edit an individual event, open it in the Event
+Window by double-clicking on it or selecting it
+then pressing the *Edit* button. Click the list section headers to sort
+the queue --- sort by *Year* to sort them by time, that is, to show the
+events in chronological sequence.
+
+The sequence of events that occur during the simulation is called the
+*event queue*. If the list of events is sorted by time, then the
+simulating events on the list, in the order presented, constitute the
+event queue. In most circumstances the terms "event list" and "event
+queue" are used interchangeably.
+
+  Event Name     Description
+  -------------- ----------------------------------------------------------------------------------
+  Forest         Only affects the forest system, such as plant trees, forest fire
+  Agricultural   Only affects the agricultural system, such as plant crops, harvest
+  Mixed          Affects both the forest and agricultural systems, such as forest fraction change
+
+**Populating the Event List**
+
+Events are loaded into the Event List by one of three methods:
+
+Using the "Data Builder"
+
+Cloning an existing item
+
+Using the "New..." button
+
+**Editing Event Timing**
+
+The timing of events can be edited using the event order
+editing functions.
+
+**Simulating Events**
+
+An event is *simulating* if it will occur in a simulation. All events
+are simulating, except:
+
+- Events that occur outside the period of the simulation (too early or
+  too late)
+- Events that have been switched off (see Event
+  Timing). Events can be switched off on the
+  Event Window, or on the Events page by the
+  secondary mouse button and selecting either *Simulate Events* or *Do
+  Not Simulate Events*.
+
+Non-simulating events have no effect on the simulation.
+
+**Initial Conditions**
+
+The initial conditions panel lists the Initial
+Trees and Initial
+Crops species names that are growing in the
+system at the start of the simulation.
+
+The Initial Trees is always displayed first.
+If there are no initial tree or crop species growing at the start of the
+simulation then `No trees` or `No crops` are displayed accordingly.
+
+Due to screen width restrictions the species name(s) may be truncated.
+
+**Event Colour-Coding**
+
+The timing fields on the event list (*Year*, *Day*, *Step in Year*) are
+colour-coded to indicate the method used to specify the time of the
+event:
+
+  colour       Method
+  -------- ----------------------------------------------------------
+  White        Calendar time (such as 1995 day 24)
+  Light blue   Time since start of simulation (such as 3 years 24 days)
+
+The names on the event list are colour coded to indicate whether they
+are ready, whether they are simulating or not, and what system they
+affect:
+
+  colour   Status / System
+  -------- ------------------------------------------------------------------------------
+  Red      Event not ready (renders event queue not ready)
+  Grey     Event non-simulating (outside simulation period, will not affect simulation)
+  Green    Forest
+  Yellow   Agricultural
+  Brown    Mixed
+
+Finally, the events you select with the mouse are coloured in the usual
+highlight colour.
+
+**Event Queue and Readiness**
+
+If the event queue is not ready then the "Events" title on the tab of
+the *Events* page is shown in red. Some event queues are not ready
+because they do not make sense --- such as a tree planting when there
+are already trees, or a tree thin when there are no trees. The first
+event that causes the event queue to be unready is highlighted in red,
+and the "Status" box describes the state of the event queue to help you
+sort out any problems. You are responsible for entering a sequence of
+events that is valid (that is, such that FullCAM considers that the
+event queue is ready).
+
+**Clearing Events**
+
+A *clearing* event is one that clears a system (forest or agricultural)
+of all plants. Depending on their extent, thins, harvests and fires
+might be clearing. Ploughs and herbicides are always clearing. Once a
+system is cleared, it needs to be planted before there is any more plant
+growth.

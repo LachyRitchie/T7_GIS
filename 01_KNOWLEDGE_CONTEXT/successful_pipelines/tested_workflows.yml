@@ -1,0 +1,94 @@
+# Tested Workflows - Successfully Validated Methods
+# Updated: 2025-09-08
+
+google_earth_binary_mask:
+  last_success: 2025-09-08
+  method: qgis_rendered_export_kmz
+  typical_size: 1-2MB
+  time: 15_minutes
+  description: "Binary masks (0/1) for Google Earth visualization using QGIS rendered export"
+  pipeline:
+    - "Load layer in QGIS (which displays correctly)"
+    - "Right-click layer → Export → Save as Image"
+    - "Choose PNG format with transparency"
+    - "Create simple KML with GroundOverlay (no NetworkLink/Region elements)"
+    - "Zip KML + PNG into KMZ: zip -q output.kmz file.kml file.png"
+    - "Clean up intermediate files"
+    - "Validation: File opens in Google Earth Web/Pro"
+  success_metrics:
+    - "File size: 1-2MB (excellent compression)"
+    - "Compatibility: Works in Google Earth Web and Pro"
+    - "Format: Simple GroundOverlay KML (no advanced features)"
+    - "Transparency: Preserved correctly (white=excluded, transparent=suitable)"
+  troubleshooting:
+    - "KMLSUPEROVERLAY does NOT work in Google Earth Web/Pro"
+    - "Use simple GroundOverlay KML instead"
+    - "NetworkLink/Region elements cause silent failure"
+    - "CRITICAL: Use QGIS export to preserve transparency"
+    - "GDAL PNG conversion fails to handle binary mask transparency"
+  failed_methods:
+    - "gdaldem color-relief: Creates 4-band RGBA that causes KMZ issues"
+    - "gdal_translate PNG: Fails to preserve transparency for binary masks"
+    - "KMLSUPEROVERLAY: Incompatible with Google Earth Web/Pro"
+
+carbon_yield_heatmap:
+  last_success: 2025-09-08
+  method: gdaldem_color_relief_simple_kml
+  typical_size: 50-100MB
+  time: 15_minutes
+  description: "Continuous data heatmaps with color mapping"
+  pipeline:
+    - "Create color map file with exact RGB values"
+    - "Command: gdaldem color-relief input.tif colormap.txt output.tif -alpha"
+    - "Verify: 4-band RGBA output"
+    - "Convert: gdal_translate -of KML (NOT KMLSUPEROVERLAY)"
+    - "Create simple GroundOverlay KML manually"
+  troubleshooting:
+    - "KMLSUPEROVERLAY does NOT work in Google Earth Web/Pro"
+    - "Use simple GroundOverlay KML instead"
+    - "NetworkLink/Region elements cause silent failure"
+
+native_title_clipping:
+  last_success: 2025-09-08
+  method: cookie_cutter_gdal_calc
+  typical_size: 200-300MB
+  time: 5_minutes_per_file
+  description: "Clip national datasets to Native Title extent"
+  pipeline:
+    - "Resample template to match source resolution"
+    - "Command: gdal_calc.py with numpy.where(B >= 0, A, 255)"
+    - "Validation: All outputs match template dimensions"
+    - "Compression: LZW, TILED=YES, BIGTIFF=YES"
+
+raster_alignment:
+  last_success: 2025-09-08
+  method: gdalwarp_with_tap
+  typical_size: varies
+  time: 2-5_minutes
+  description: "Align rasters to standard grid"
+  pipeline:
+    - "Command: gdalwarp -tr 0.00025 0.00025 -tap"
+    - "Target: 25m resolution, GDA94 Albers"
+    - "Validation: Check pixel alignment"
+
+# Pattern Recognition Rules
+patterns:
+  google_earth_binary:
+    keywords: ["Google Earth", "binary mask", "exclusion"]
+    method: "qgis_rendered_export"
+    max_size: "100MB"
+    
+  google_earth_continuous:
+    keywords: ["Google Earth", "heatmap", "continuous"]
+    method: "gdaldem_color_relief"
+    max_size: "200MB"
+    
+  large_processing:
+    keywords: ["8 hours", "batch", "national"]
+    red_flag: true
+    action: "propose_alternative"
+    
+  qgis_already_correct:
+    keywords: ["QGIS", "already", "displays"]
+    method: "rendered_export"
+    action: "use_existing_styling"

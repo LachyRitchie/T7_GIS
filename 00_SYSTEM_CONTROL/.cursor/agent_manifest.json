@@ -1,0 +1,45 @@
+{
+  "agent_config": {
+    "description": "T7 Shield GIS Engineer Agent Configuration",
+    "version": "2025-08-13",
+    "agent_type": "GIS_Engineer",
+    "files": {
+      "system_prompt": {
+        "file": "GIS_ENGINEER_SYSTEM_PROMPT.md",
+        "description": "Core system instructions and workflow for GIS Engineer agent",
+        "last_updated": "2025-08-13",
+        "key_features": [
+          "Raster output size safeguards",
+          "ACCU compliance defaults",
+          "Project lifecycle management",
+          "Safety rules and validation"
+        ]
+      },
+      "cursor_settings": {
+        "file": "cursor_settings.json",
+        "description": "Cursor IDE specific configuration and settings",
+        "last_updated": "2025-08-13"
+      }
+    },
+    "knowledge_base_path": "/Volumes/T7 Shield/02_KNOWLEDGE BASE/",
+    "search_priority": [
+      "Local Knowledge Base (02_KNOWLEDGE_BASE)",
+      "Project Context (runspecs, docs)",
+      "Shared Datasets (03_DATA)",
+      "Tool Documentation",
+      "Web Search (last resort)"
+    ],
+    "compliance_methods": [
+      "Environmental Plantings (EP) - 2024",
+      "Human Induced Regeneration (HIR) - 2013",
+      "Plantation Forestry (PF) - 2022"
+    ],
+    "default_settings": {
+      "crs_analysis": "EPSG:3577 (GDA94 Albers)",
+      "crs_delivery": "EPSG:7844 (GDA2020)",
+      "pixel_size": "25m",
+      "compression": "COMPRESS=LZW TILED=YES",
+      "nodata": "255 (byte), -9999 (float)"
+    }
+  }
+}

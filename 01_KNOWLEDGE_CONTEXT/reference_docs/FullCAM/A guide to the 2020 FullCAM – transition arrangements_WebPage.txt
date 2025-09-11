@@ -1,0 +1,33 @@
+Document Title: A guide to the 2020 FullCAM – transition arrangements
+Document Type: Web Page
+Source URL: https://cer.gov.au/schemes/australian-carbon-credit-unit-scheme/accu-scheme-methods/reforestation-environmental-or-mallee-plantings-fullcam-method-2014/guide-to-2020-fullcam-transition-arrangements
+Extraction Date: 2025-08-28 13:18:36
+Content Length: 2669 characters
+Action/Task: Calculating abatement and crediting
+Method Families: Vegetation - Regeneration and avoided clearingVegetation - Plantings and forestry
+Guidance Type: Regulatory
+Currency: Latest version(relates to a closed method)
+Source: main_table
+--------------------------------------------------------------------------------
+
+A guide to the 2020 FullCAM – transition arrangements
+A new version of the
+Full Carbon Accounting Model (FullCAM)
+was published in 2020. All projects need to transition to the updated 2020 FullCAM version.
+The 2020 FullCAM version includes two options:
+2020 FullCAM version, 2020 option – this is the default option and incorporates the latest FullCAM modelling information and has new interface features.
+2020 FullCAM version, 2016 option – this simulates modelling as it would have been conducted under the 2016 FullCAM version.
+Your project’s registration date will determine which option you may use in the 2020 FullCAM version.
+New projects
+with a registration application submitted on or after 1 September 2020 must use the 2020 option.
+Existing projects
+with a registration application submitted before 1 September 2020 may use either the 2020 or 2016 option within the 2020 FullCAM version. You must use one single option across all carbon estimation areas (CEAs) within a project.
+Projects that choose to submit a crediting application using the 2020 option will be unable to submit subsequent crediting applications using the 2016 option.
+Projects that apply to transfer from an earlier to a later version of a methodology determination (method) or transfer to another method on or after 1 September 2020 must use the 2020 option.
+If an application to add new areas to the project is made on or after 1 September 2020, you must use the 2020 option for the entire project unless all areas added were part of another project eligible to use the 2016 option.
+The 2020 option is not yet available for projects registered under the plantation forestry and the farm forestry methods. Projects registered under these methods must use the 2016 option within the 2020 FullCAM version until otherwise advised through an update to the relevant FullCAM guidelines.
+Proponents need to use the version of FullCAM in force at the end of the reporting period. This means if your project’s reporting period ends before 1 September 2020, you must use the 2016 FullCAM version and cannot use either the 2020 or 2016 option in the 2020 FullCAM version. Further, projects that have previously reported using the 2016 FullCAM version will not be able to resubmit previous crediting applications using the 2020 FullCAM version. The Department of Climate Change, Energy, the Environment and Water will continue to provide access to the 2016 FullCAM version.
+Use the below flow chart to determine which FullCAM version and option you can use:
+For more information and to
+access the latest version of FullCAM
+, visit the Department of Climate Change, Energy, the Environment and Water.

@@ -1,0 +1,16 @@
+Document Title: Resource Entitlement Implications for Carbon Farming Initiative Eligible Interest Holder consent requirements and Legal Right to carry out a Carbon Farming Initiative project
+Document Type: Web Page
+Source URL: https://cer.gov.au/schemes/australian-carbon-credit-unit-scheme/how-to-participate/apply-to-participate/eligible-interest-holder-consent/resource-entitlement-implications-carbon-farming-initiative-eligible-interest-holder-consent
+Extraction Date: 2025-08-28 13:19:48
+Content Length: 1245 characters
+Action/Task: Planning and registering projects
+Method Families: All methods
+Guidance Type: Regulatory
+Currency: Latest version
+Source: main_table
+--------------------------------------------------------------------------------
+
+Resource entitlements for onshore mining and petroleum tenures may have implications for Carbon Farming Initiative projects. These entitlements include, but are not limited to, exploration or prospecting licences, mining production leases, and retention licences.
+The relevant legislation for mining and petroleum resource entitlements in most states and territories do not deem or characterise those entitlements as interests in land, and therefore do not have implications for Eligible Interest Holder Consent or legal right to carry out a Carbon Farming Initiative project, with the following exceptions.
+Should there be an entitlement registered on the land title, an Eligible Interest Holder consent should be obtained from the entitlement holder. This is particularly relevant in Victoria, where resource entitlements are deemed to be an interest in land.
+In Queensland, while resource entitlements are not deemed to be an interest in land, they may have characteristics similar to exclusive possession, which has implications for the legal right to carry out a project. Projects in Queensland on land that is subject to resource entitlements should have documented all necessary access and occupation rights for the relevant project area.

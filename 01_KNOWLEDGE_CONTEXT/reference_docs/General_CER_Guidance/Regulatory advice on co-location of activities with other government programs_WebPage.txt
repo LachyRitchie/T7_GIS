@@ -1,0 +1,17 @@
+Document Title: Regulatory advice on co-location of activities with other government programs
+Document Type: Web Page
+Source URL: https://cer.gov.au/schemes/australian-carbon-credit-unit-scheme/accu-scheme-methods/closed-methods/regulatory-advice-co-location-activities-other-government-programs
+Extraction Date: 2025-08-28 13:19:46
+Content Length: 2075 characters
+Action/Task: Planning and registering projectsReporting and audits
+Method Families: Energy efficiency
+Guidance Type: Regulatory
+Currency: Latest version(relates to a closed method)
+Source: main_table
+--------------------------------------------------------------------------------
+
+​The purpose of this regulatory advice is to highlight considerations for projects using the Carbon Credits (Carbon Farming Initiative—Commercial and Public Lighting) Methodology Determination 2015 (the determination) that are co-located with activities under other government programs.
+An activity under the determination is considered to be co-located if the activity occurs at the same location as another lighting upgrade activity undertaken or supported by another government program (e.g. light upgrade under Victorian Energy Efficiency Target Act 2007 (Vic.), Electricity (General) Regulations 2012 (SA), Electricity Supply Act 1995 (NSW)).
+As per section 21 of the Carbon Credits (Carbon Farming Initiative) Rule 2015, co-location of  Emissions Reduction Fund (ERF) and other government program activities is possible if any carbon abatement that results from the other government activity will not be taken into account in ascertaining the carbon dioxide equivalent net abatement amount for the ERF project, or will only have a minor or trivial effect on the carbon dioxide equivalent net abatement amount for the individual serviced area of the ERF project.
+On further consideration of the determination, a lighting system is one or more sets of lighting equipment that together deliver all the artificial light that is intended to be provided to a particular area (the serviced area). The serviced area is the area where a lighting system delivers all the artificial light that is intended to be provided. This means that the entire lighting system and its corresponding serviced area needs to be captured and must not be split between activities, projects or multiple government programs.
+Where co-location is intended, it is suggested that an auditor should be engaged early to determine and agree on the appropriate project boundary that meets the requirements of the determination. Adequate records should be kept to demonstrate compliance, such that it could distinguish the ERF project abatement from a project or activities under other government programs.​

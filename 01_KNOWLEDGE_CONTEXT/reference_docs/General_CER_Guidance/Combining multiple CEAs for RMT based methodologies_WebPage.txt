@@ -1,0 +1,35 @@
+Document Title: Combining multiple CEAs for RMT based methodologies
+Document Type: Web Page
+Source URL: https://cer.gov.au/schemes/australian-carbon-credit-unit-scheme/accu-scheme-methods/combining-multiple-ceas-rmt-based-methodologies
+Extraction Date: 2025-08-28 13:18:57
+Content Length: 1630 characters
+Action/Task: Managing, monitoring or varying projectsCalculating abatement and crediting
+Method Families: Vegetation - Regeneration and avoided clearingVegetation - Plantings and forestry
+Guidance Type: Regulatory
+Currency: Superseded byCombined CEAs in regeneration and environmental planting projects(relates to a closed method)
+Source: main_table
+--------------------------------------------------------------------------------
+
+warning
+​​​New guidance available
+This guidance has been superseded. Please see
+Combined CEAs in regeneration and environmental planting projects
+for the latest information.
+The ​environmental or
+mallee plantings
+and the
+human-induced regeneration
+methodology determinations use the
+reforestation modelling tool (RMT)
+when calculating abatement.​
+Projects carried out under these RMT-based methodologies must have information about each carbon estimation area (CEA) entered into the RMT.
+There may be situations where scheme participants choose to combine several CEAs into one CEA. For example, where small CEAs are located next to each other and share common features (see Figure 1). By combining the CEAs (see Figure 2) there will be less data entry and modelling in the RMT.
+For this combination of CEAs to happen, the new CEA must:
+be contained within a single land title, or two or more adjacent land titles
+not be dissected by a land title that is not included in the project area
+continue to meet all requirements of the relevant methodology determination and the CFI Mapping Guidelines, including
+a modelling point that is within the CEA (and not within an exclusion area).
+Figure 1: Example of several small CEAs (1 to 8)
+Each separate CEA must be entered into the RMT with a modelling point identified for each CEA.
+Figure 2: Example of several CEAs (1 to 8) combined into one CEA
+Only one CEA is entered into the RMT with one modelling point. The area between the original CEAs (shown in yellow) now forms the exclusion area for the CEA where the project's activities will not occur, for example, a road or fence line.

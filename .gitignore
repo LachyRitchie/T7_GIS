@@ -1,0 +1,43 @@
+# macOS system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+.TemporaryItems
+.AppleDouble
+.LSOverride
+
+# Windows system files
+System Volume Information/
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE files
+.vscode/
+.claude/
+
+# Backup files
+*.bak
+*.backup
+
+# Large data files - exclude from Git per backup protocol
+02_BASE_DATA/
+03_DATA_PROJECTS/
+04_FARM_ASSESSMENT/
+05_TEMPLATES_LAYOUTS/
+09_ARCHIVE/
+
+# Additional data file types
+*.tif
+*.tif.ovr
+*.gpkg
+*.shp
+*.dbf
+*.shx
+*.prj
+*.aux.xml
+*.cpg
+*.qgz

@@ -1,0 +1,117 @@
+Document Title: Selling or buying ACCU Scheme project property
+Document Type: Web Page
+Source URL: https://cer.gov.au/schemes/australian-carbon-credit-unit-scheme/how-to-participate/making-changes-to-your-project/selling-or-buying-accu-scheme-project-property
+Extraction Date: 2025-08-28 13:19:52
+Content Length: 9988 characters
+Action/Task: Managing, monitoring or varying projects
+Method Families: Agriculture - livestockAgriculture - otherAgriculture - soilVegetation - Blue CarbonVegetation - Savana fire managementVegetation - Regeneration and avoided clearingVegetation - Plantings and forestry
+Guidance Type: Regulatory
+Currency: Latest version
+Source: main_table
+--------------------------------------------------------------------------------
+
+If you want to sell or buy a property with a registered Australian Carbon Credit Unit (ACCU) Scheme project on the land, there are several factors you must consider.
+Permanence obligations and carbon maintenance obligations
+Prospective purchasers of land are advised to check the
+ACCU Scheme project register
+to verify whether there is:
+an ACCU Scheme project registered over a land title
+the length of time carbon stored or sequestered by the project must be maintained (
+permanence period
+)
+a
+carbon maintenance obligation
+on the area.
+These may be applicable to the land being purchased.
+The downloadable version (as Excel or CSV raw data) of the project register lists the above information under the following columns, respectively:
+project areas, where the project is an area-based offsets project
+nominated permanence period
+are the project areas subject to carbon maintenance obligation.
+Prospective proponents should consider and understand the project requirements (including permanence obligations) and carbon maintenance obligations before buying the property.
+Transfer of the project and the project proponent role
+If the property sale includes the transfer of the ACCU Scheme project and the role of project proponent to the buyer, then the seller and the buyer must agree to transfer:
+the project
+any assets and information (including historical records) required to run the project
+all elements of the legal right to conduct the project on the land as part of the sale agreement.
+To become the new project proponent for the project, the buyer must:
+register as an individual or organisation through
+Online Services
+pass the fit and proper person test
+obtain the
+legal right
+to carry out the ACCU Scheme project and consent to be nominated as its project proponent
+work with the current project proponent, who should apply to
+vary the project proponent
+.
+If the project proponent is a carbon service provider, this arrangement may continue following the sale of the property and the buyer is not required to become the project proponent. The carbon service provider will need to obtain legal right from the buyer and provide evidence that they have maintained legal right for the project to us.
+If no carbon service provider is acting as the project proponent and the buyer doesn't want to run the project themselves, the buyer may choose to contract a carbon service provider.
+Proponent variation before settlement
+If the parties want to start the transfer of the project before settlement, the outgoing proponent and the buyer need to form a specific agreement to provide the buyer, during the settlement period, with legal right and consent for the buyer to be nominated on the project declaration as the project proponent.
+To do this, the applicant must apply to vary the project proponent and must provide evidence of:
+the signed sales contract
+documentation that demonstrates there is a transfer of legal right
+consent for the buyer to be nominated on the project declaration as project proponent, from the current project proponent to the buyer during the settlement period.
+Proponent variation after settlement
+If applying to vary the project proponent after settlement, the applicant must provide a copy of the updated land title. If the land title has not yet been updated, you can provide evidence of the signed sales contract and confirmation from your solicitor that settlement has occurred. Once the land title has been updated, you will need to provide a copy of the new land title to us.
+Timing
+We aim to process applications to vary project proponents within 90 days. This timing should be considered when planning the transfer of ACCU Scheme projects and project property.
+Historical project information and record-keeping
+Running an ACCU Scheme project requires access to historical information about the project, including project mapping, abatement calculations, activity evidence and offsets reports and records supporting the offsets reports, monitoring and record-keeping data maintained about the project and any requisite intellectual property rights.
+Due to secrecy and commercial-in-confidence considerations, we can't provide historical project information to a new project proponent.
+For this reason, we recommend that outgoing and new proponents must consider what historical project information and record keeping are required to take over an ACCU Scheme project and agree for this historic information to be provided to the new proponents as part of the sale.
+Treatment of ACCUs
+Project proponents report and claim ACCUs for a period referred to as a
+reporting period
+. The person who is the project proponent immediately before the end of the reporting period can submit an offsets report and be issued ACCUs reflecting abatement achieved by the project during that reporting period.
+As part of the sale negotiation, outgoing and new proponents should consider how to treat any ACCUs that the project will become eligible for. This should include:
+whether offsets reports have been submitted for the project and ACCUs have been issued
+when the project will next report and claim ACCUs
+how the ACCUs will be distributed or accounted for between the outgoing and the new proponent.
+The project proponent for the project can change the end date of the reporting period, as long as it is within 5 years (which is the maximum length of time for the reporting period for sequestration projects) from the start date of the reporting period. You can consider 2 approaches:
+ending the reporting period before the sale and proponent variation
+In this scenario, we issue ACCUs to the seller (current project proponent). We process and finalise the crediting application for this reporting period and issue ACCUs before finalising the proponent variation.
+ending the reporting period after the sale and variation of the project proponent
+In this scenario, we can only issue ACCUs to the new project proponent. The buyer and seller can arrange separately to redistribute the ACCUs amongst themselves after they are issued.
+Selling parts of project property
+If you're considering selling parts of the project property during the project’s
+permanence period
+and want to remain the project proponent, it's important that you retain the legal right to carry out the project.
+If the project’s carbon estimation areas (CEAs) are partly in the land you still own and partly in the land you have sold, then you and the new landowner must become co-proponents to retain legal right. The terms of the sale should include assurances that the purchaser will allow you to continue carrying out the project and will not take any action that would reverse sequestration during the permanence period.
+If your project is a soil carbon project, the
+2021 soil carbon method
+requires that CEAs have identical responsible landholders, so this must be considered when selling a part of your property that includes a part of a CEA. If the CEA does not have identical responsible landholders, the CEA may need to be removed from the project area.
+If an agreement can’t be made, you may give up your right to the project where it overlaps with the land belonging to the new owner. The CEA or part of the CEA on the new owner’s land will then need to be removed from your project.
+If the project’s CEAs are entirely within the part of the land that you have not sold, then you retain your legal right to conduct the project. You should remove the part of the project area overlapping the land belonging to the new owner from your project.
+Carbon abatement contract
+Some ACCU Scheme projects are the subject of a carbon abatement contract, under which the seller has an obligation or an option to sell ACCUs generated by the project to the Clean Energy Regulator for an agreed price. You can check whether a project has a carbon abatement contract using the ‘Contracts’ tab on the
+ACCU Scheme project register
+.
+When the project proponent for a project with a carbon abatement contract changes, there are 2 options:
+The new project proponent can take over (novate) the carbon abatement contract.
+The seller retains the carbon abatement contract but delivers ACCUs sourced from other projects.
+You will need to negotiate and agree on which of these options will occur. In these negotiations, it will likely be relevant for the purchaser to know the price paid for ACCUs under the carbon abatement contract. The price we pay for ACCUs under a carbon abatement contract can only be shared with a person who acknowledges and complies with confidentiality obligations. Before a seller shares this information with potential buyers, they must contact our Carbon Abatement Contracts team at
+erfcontracts@cer.gov.au
+to obtain a fit-for-purpose non-disclosure agreement.
+A copy of the signed non-disclosure agreement must be provided to us before we can authorise the sharing of unit price information.
+If you decide the new project proponent will take over (novate) the carbon abatement contract, you will need to complete
+a carbon abatement contract novation deed
+.
+You should contact the Carbon Abatement Contracts team to ensure that the draft novation deed is fit for purpose before obtaining signatures. A copy of the novation deed signed by the outgoing and incoming sellers must then be sent to
+erfcontracts@cer.gov.au
+.
+You must also send through original wet ink signed versions of the novation deed to:
+Att. Contracts Team
+GPO Box 621
+Canberra ACT 2601
+We will align contract variations with related project proponent variations, so you should have your project varied before we execute the novation.
+Find out more
+Emissions reduction
+ACCU
+Permanence obligations
+Nominate whether your area-based project stores carbon for 25 or 100 years.
+arrow_right_alt
+Emissions reduction
+ACCU
+Carbon maintenance obligations
+If your sequestration project loses carbon, you may have to relinquish Australian Carbon Credit Units (ACCUs) or face a carbon maintenance obligation.
+arrow_right_alt

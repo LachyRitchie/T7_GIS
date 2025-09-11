@@ -1,0 +1,24 @@
+Document Title: Modelling commencement dates for human-induced regeneration projects
+Document Type: Web Page
+Source URL: https://cer.gov.au/schemes/australian-carbon-credit-unit-scheme/accu-scheme-methods/closed-methods/human-induced-regeneration-permanent-even-aged-native-forest-closed/modelling-commencement-dates-human-induced-regeneration-projects
+Extraction Date: 2025-08-28 13:19:36
+Content Length: 1280 characters
+Action/Task: Calculating abatement and crediting
+Method Families: Vegetation - Regeneration and avoided clearing
+Guidance Type: Regulatory
+Currency: Latest version(relates to a closed method)
+Source: main_table
+--------------------------------------------------------------------------------
+
+Please note: New projects registered under the Emissions Reduction Fund can adopt methods developed under the previous scheme, the Carbon Farming Initiative. Up until 1 July 2015 projects adopting these methods may be backdated. After this date the Emissions Reduction Fund's '
+newness
+' requirement applies and backdating will not be possible. The only exception is when the method specifically allows backdating.
+The Clean Energy Regulator has clarified its position on determining the modelling commencement date for human-induced regeneration projects. When using the reforestation modelling tool (RMT) to calculate carbon stock, project proponents are required to use the date when sufficient regeneration has occurred to demonstrate forest potential as the modelling commencement date.
+The methodology determination defines 'forest potential' as:
+the land has an area of at least 0.2 of a hectare; and
+the vegetation on the land includes trees that have the potential to:
+reach 2 metres or more in height; and
+provide crown cover of at least 20% of the land.
+The above information applies to all projects conducted under the
+Carbon Credits (Carbon Farming Initiative) (Human Induced Regeneration of a Permanent Even-Aged Native Forest – 1.1) Methodology Determination 2013
+.

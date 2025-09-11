@@ -1,0 +1,67 @@
+Document Title: Definition of a 'park' for the purposes of the Carbon Farming Initiative
+Document Type: Web Page
+Source URL: https://cer.gov.au/schemes/australian-carbon-credit-unit-scheme/accu-scheme-methods/plantation-forestry-method/definition-park-purposes-carbon-farming-initiative
+Extraction Date: 2025-08-28 13:18:58
+Content Length: 5969 characters
+Action/Task: Planning and registering projects
+Method Families: Vegetation - Plantings and forestry
+Guidance Type: Regulatory
+Currency: Latest version(relates to a closed method)
+Source: main_table
+--------------------------------------------------------------------------------
+
+Permanent plantings established on or after 1 July 2007 are specified as eligible offsets projects under the Carbon Credits (Carbon Farming Initiative) Regulations 2011 (the CFI Regulations). That is, a permanent planting is an additional activity and is on the 'positive list'.
+Permanent plantings are defined in the CFI Regulations and specifically exclude landscape plantings in urban centres and residential places such as a park. Establishing landscape plantings in urban centres and localities is considered to be common practice.
+These guidelines provide more detail on what is considered a 'park' and examples of how to determine whether a site with tree plantings (where tree means a perennial plant that has primary supporting structures consisting of secondary xylem) is a park or not.
+Permanent plantings that fall outside the definition of landscape plantings may still be ineligible under the CFI Act if they are required by law or do not conform with the relevant methodology determination.
+Permanent plantings
+A permanent planting is defined as a planting that is not harvested other than:
+for thinning for ecological purposes
+to remove debris for fire management
+to remove firewood, fruits, nuts, seeds, or material used for fencing or as craft materials, if those things are not removed for sale, or in accordance with traditional indigenous practices or native title rights, and that is not a landscape planting, and
+is not a 'landscape planting'.
+Ecological thinning is the removal of some plants to improve the health and condition of the vegetation or vegetation community. For environmental benefit, all ecological thinning should include the retention of all large standing trees (including dead trees), trees containing hollows and trees with signs of current or recent wildlife occupation.
+Removal of debris for fire management should only be undertaken to protect life, property and community assets from the adverse impacts of fire or to protect Aboriginal sites, historic places and culturally significant features known to exist within the project area or to improve the condition of the vegetation on site. Removal of debris for fire management should be undertaken in accordance with a fire management plan which has been developed for the project.
+Removal of firewood, fencing and craft materials, fruit, nuts and seeds can take place where they are for household use and not for sale.
+Removal of items for traditional Indigenous uses can also take place as part of this activity, and the resulting products can be sold. This is because it is not common to establish plantings for the purpose of growing materials for Indigenous crafts and products, such as the use of plants for food, medicine, tools, utensils, weapons and ceremonial purposes. Traditionally, these products are harvested from naturally occurring bushland rather than planted.
+Landscape plantings
+A landscape planting is defined as a planting in an urban centre or locality as follows:
+in a residential place (for example, in a backyard, park or on a nature strip)
+on the grounds of a sporting facility, factory or other commercial facility
+on the grounds of a hospital, school or other institution
+in a car park or cemetery.
+Urban centre
+'Urban centres' are defined by the Australian Bureau of Statistics as population clusters of 1000 or more people with a density of at least 200/km
+2
+. A 'locality' is described as containing a non-farm population of 200 to 999 people, with a minimum of 40 occupied non-farm dwellings with a discernible urban street pattern and a discernible nucleus of population. Establishing landscape plantings in urban centres and localities is considered to be common practice.
+Locality
+For the purposes of the Carbon Farming Initiative, locality means a population cluster of at least 200 people.
+Park
+A park is:
+an area of land within a town, set aside for public use, often landscaped with trees and gardens, and with recreational and other facilities
+(Macquarie Dictionary)
+Examples
+Neighbourhood parks with playground facilities.
+Recreational areas with mown grassland and informal tree plantings that may include adventure playgrounds, skate-parks, swimming pools, picnic and barbecue areas, bike, walking and nature trails.
+Open space venues for outdoor entertainment events such as shows, fireworks, community festivals.
+Rest areas for commuters, which typically include a car park and toilet facilities.
+University grounds with outdoor facilities and open space maintained by universities for aesthetic and recreational purposes.
+A park is not:
+Degraded farm land
+Areas of land without vegetation that were previously used for agricultural activity.
+Disused quarries
+Area disturbed by mineral exploration or extraction activities.
+Greenbelts
+Rehabilitated grazing or bush land near urban centres where vegetation is allowed to grow back
+Biodiversity corridors
+Corridors of land planted with regionally appropriate vegetation, which allow flora and fauna to move across a wider territory.
+Nature reserves
+A tract of land that legally has a protected status to safeguard in perpetuity natural landscapes, native plants, animals or cultural heritage of local importance for future generations. May include areas of multi-use.
+Wilderness areas
+Remote and natural areas undisturbed by the impacts of modern technology. Sometimes used to protect the survival of threatened flora and fauna.
+Landfill site
+A facility for the disposal of solid waste as landfill, and includes a facility that is closed for the acceptance of waste.
+Landscaped foreshores
+Landscaped foreshores along the coast, river or lake, including urban riparian zones along a river or stream that contains vegetation that has been planted primarily for erosion/ water management.
+Undeveloped land
+Undeveloped land set aside for public use that that may contain vegetation but lacks infrastructure, services or buildings that are often characterized as urban development.

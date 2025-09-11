@@ -1,0 +1,152 @@
+Document Title: Estate management for executors
+Document Type: Web Page
+Source URL: https://cer.gov.au/schemes/australian-carbon-credit-unit-scheme/how-to-participate/making-changes-to-your-project/estate-management-for-executors
+Extraction Date: 2025-08-28 13:19:01
+Content Length: 7959 characters
+Action/Task: Planning and registering projectsManaging, monitoring or varying projectsReporting and audits
+Method Families: All methods
+Guidance Type: Regulatory
+Currency: Latest version
+Source: main_table
+--------------------------------------------------------------------------------
+
+An Australian Carbon Credit Unit (ACCU) Scheme project is an estate asset.
+If you're the executor for the project proponent’s estate, you may need to keep the ACCU Scheme project on track until the estate is distributed to the beneficiaries or sold in accordance with the will.
+We try to be flexible during this period as it can be a difficult time for you and relations of the deceased. The most important thing you can do is keep us informed.
+info
+This page is not a substitute for estate administration advice
+We recommend you consult a wills and estates lawyer for guidance on administering estates. A bank or financial institution may also be able to provide guidance on estate administration.
+Executor responsibilities
+You must
+notify us
+:
+within 90 days of the project proponent’s passing
+of the new project nominee if the project has multiple proponents and the deceased is the project nominee
+if delays in obtaining a grant of probate impact the ability to keep the ACCU project on track
+of the new project proponent if the project is sold.
+Once probate is granted, we can give you information about where the project is up to and what needs to be done next.
+You can then:
+gather ACCUs from the deceased’s Australian National Registry of Emissions Units (ANREU) account
+apply for ACCUs for reporting periods that ended before the deceased passed away
+become the project proponent
+to keep the ACCU project on track and apply for ACCUs for reporting periods ending after the deceased passed away.
+You can also
+nominate an agent or carbon service provider
+to act as project proponent on your behalf. This may be the right choice if you don’t want to manage the project, or don’t have the technical expertise or administrative resources to do so.
+You may also need to
+submit offsets reports
+depending on when the project’s current reporting period ends.
+Gathering ACCUs from the deceased’s account
+Show
+Once you’re granted probate, you can transfer ACCUs from the deceased project proponent’s ANREU account into your own.
+This can be done:
+to enable distribution to the beneficiaries or for sale
+if you need to apply for ACCUs for a reporting period that ended before the deceased passed away.
+ACCUs already in the deceased’s account
+To gain control of ACCUs from the deceased’s ANREU account, you must:
+email us with a copy of the grant of probate to demonstrate legal authorisation to carry out the deceased’s affairs and deal with their property
+open an ANREU account
+if you don’t have one already
+email a request to us to transfer the ACCUs that the deceased held into your ANREU account.
+ACCUs for a reporting period that ended before the deceased passed
+If a report hasn’t been submitted for a period that ended before the deceased passed, you must:
+email evidence of grant of probate to us
+submit the offsets report and
+apply for ACCUs
+for the reporting period on behalf of the deceased.
+We will then issue ACCUs to the deceased’s ANREU account.
+Once the ACCUs are in the deceased’s account, you can request to transfer the ACCUs into your ANREU account.
+Applying for ACCUs for reporting periods ending after the deceased has passed
+Show
+If you’re willing and able to act as project proponent, you can keep the project on track. This includes
+applying for ACCUs
+for reporting periods that end after the deceased has passed.
+Probate granted in the Australian Capital Territory
+If probate was granted in the Australian Capital Territory, you can only act as project proponent from the date probate was granted and not retrospectively to the date of death. This may affect estates in the Australian Capital Territory if the reporting period for the project ends after the deceased’s passing but before probate was granted. If you are impacted, you should
+contact us
+as soon as possible.
+Becoming the project proponent
+Show
+A
+project proponent
+is the person responsible for a project under the ACCU Scheme. Because the project proponent controls the project, our legal relationship is with them.
+As a project proponent, you can:
+apply for ACCUs
+for reporting periods after the deceased has passed
+submit offsets reports
+to claim ACCUs for the project.
+You must first pass a
+fit and proper person test
+.
+You must then submit a ‘Project Variation - Vary Proponent’ form and attach evidence of grant of probate through
+Online Services
+.
+This process lists you on the project declaration as the project proponent with retrospective effect to the date of death.
+Please note that different rules apply where probate is granted in the Australian Capital Territory.
+Not becoming the project proponent
+Show
+You might choose not to become the project proponent on the project declaration or may not meet the fit and proper person requirements. Once probate is granted, you can still:
+transfer ACCUs from the deceased’s ANREU account
+apply for ACCUs for reporting periods that ended before the deceased passed away
+perform project activities
+submit offsets reports to meet our reporting obligations.
+However, if you are not named as the project proponent, you can’t apply for ACCUs for reporting periods that end after the deceased passed away but before the project assets are distributed. This may mean the project loses eligibility for those ACCUs.
+If you don’t become named on the project declaration as the proponent, the beneficiaries or purchasers may want to claim ACCUs for a reporting period that will end before the project assets are distributed or sold. To do this, they must become the project proponent before the end of the reporting period.
+Selling the project
+Show
+If the deceased directed that the project be sold, you can arrange for sale of the project even if you aren’t named on the project declaration as the proponent.
+However, if the sale is delayed, you may need to be named on the project declaration as the proponent to:
+keep the project on track
+apply for ACCUs for reporting periods ending after the deceased passed away.
+When the sale is completed, notify us of the new project proponent.
+For more information, see our
+guidance on sale of an ACCU Scheme project
+.
+Beneficiary or purchaser information
+Once assets are distributed or sold, the beneficiary or purchaser can
+become the project proponent
+. As the project proponent, they then operate the project on an ongoing basis.
+Becoming project proponent
+Show
+The beneficiary or purchaser must first pass a
+fit and proper person test
+.
+They can then submit a ‘Project Variation - Vary Proponent’ form through
+Online Services
+.
+Submitting offsets reports
+Show
+Once the project assets are distributed or sold, the beneficiaries or purchasers will be responsible for
+submitting offsets reports
+for the project.
+They should become familiar with reporting timeframes and obligations.
+Applying for ACCUs
+Show
+Once the beneficiaries or purchasers become named on the project declaration as the project proponent, they can
+apply for ACCUs
+for reporting periods after the date the assets were distributed or sold.
+Understanding permanence obligations
+Show
+Sequestration projects have
+permanence obligations
+. This means the stored carbon must be protected for the permanence period of the project (25 or 100 years).
+Beneficiaries and purchasers will need to understand these obligations.
+Find out more
+Emissions reduction
+ACCU
+Project reporting and audits
+Find out about the reporting and auditing obligations for Australian Carbon Credit Unit (ACCU) Scheme projects.
+arrow_right_alt
+ACCU
+Choose an ACCU Scheme project proponent
+Decide who will be responsible for your Australian Carbon Credit Unit (ACCU) Scheme project before you register.
+arrow_right_alt
+ACCU
+Selling or buying ACCU Scheme project property
+Find out what you need to consider when selling or buying ACCU Scheme project land.
+arrow_right_alt
+Emissions reduction
+ACCU
+Apply for ACCUs
+Find out how to apply for Australian carbon credit units to sell on the secondary market or to the Australian Government.
+arrow_right_alt

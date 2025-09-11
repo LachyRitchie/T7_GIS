@@ -1,0 +1,90 @@
+# Base Data Sources Registry
+# Original download locations for all base data
+# Use this to rebuild if T7 Shield fails
+
+version: 1.0
+last_updated: 2025-01-09
+
+base_data:
+  forest_cover:
+    name: Forest_Cover_National_2019_v1.0.tif
+    source: TERN AEKOS
+    url: https://portal.tern.org.au/forest-cover-australia-2019/
+    size: 2.3GB
+    download_method: Direct download
+    notes: 25m resolution, binary mask
+    
+  biomass_layers:
+    name: New_M_2019.tif
+    source: ABARES
+    url: https://www.agriculture.gov.au/abares/forestsaustralia/forest-data-maps-and-tools/spatial-data
+    size: 1.8GB
+    download_method: Portal download after form
+    notes: Above-ground biomass, tonnes/ha
+    
+  accu_projects:
+    name: ACCU_Projects_Current.gpkg
+    source: Clean Energy Regulator
+    url: https://cer.gov.au/markets/reports-and-data/australian-carbon-credit-unit-market-information
+    size: 150MB
+    download_method: Download shapefile, convert to GPKG
+    update_frequency: Monthly
+    
+  capad:
+    name: CAPAD_2024.gpkg
+    source: Department of Environment
+    url: https://www.dcceew.gov.au/environment/land/nrs/science/capad
+    size: 890MB
+    download_method: Direct download
+    notes: Protected areas database
+    
+  cadastre:
+    name: State_Cadastre_[STATE].gpkg
+    source: Various state authorities
+    urls:
+      NSW: https://portal.spatial.nsw.gov.au/
+      VIC: https://datashare.maps.vic.gov.au/
+      QLD: https://qldspatial.information.qld.gov.au/
+      SA: https://data.sa.gov.au/
+      WA: https://catalogue.data.wa.gov.au/
+      TAS: https://listdata.thelist.tas.gov.au/
+      NT: https://data.nt.gov.au/
+    size: Varies by state (500MB-2GB)
+    download_method: State portals, various formats
+    
+  pre1750_vegetation:
+    name: Pre1750_MVG_Forest_Potential_National.tif
+    source: NVIS / Department of Environment
+    url: https://www.dcceew.gov.au/environment/land/native-vegetation/national-vegetation-information-system
+    size: 450MB
+    download_method: Portal search and download
+    notes: Major Vegetation Groups, pre-clearing
+    
+  soil_carbon:
+    name: SOC_National_100cm.tif
+    source: CSIRO / TERN
+    url: https://portal.tern.org.au/soil-organic-carbon-stock/
+    size: 1.2GB
+    download_method: Direct download
+    notes: Soil organic carbon to 100cm depth
+
+# Recovery instructions
+recovery_steps:
+  1: Check T7 Backup drive first (may have recent versions)
+  2: Download from sources above if needed
+  3: Place in /03_BASE_DATA/CURRENT/
+  4: Update CURRENT_VERSIONS.yml with download date
+  5: Run validation script to check CRS and resolution
+
+# Alternative sources (if primary fails)
+alternatives:
+  national_map: https://nationalmap.gov.au/
+  data_gov_au: https://data.gov.au/
+  geoscience_aus: https://www.ga.gov.au/scientific-topics/national-location-information/digital-elevation-data
+
+# Notes
+notes:
+  - Always check for updated versions when rebuilding
+  - Some sources require user registration
+  - State cadastre often requires API keys
+  - Keep copies of any license agreements

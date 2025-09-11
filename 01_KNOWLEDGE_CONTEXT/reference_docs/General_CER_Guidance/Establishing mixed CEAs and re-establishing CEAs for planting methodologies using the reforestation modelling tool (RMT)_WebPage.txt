@@ -1,0 +1,101 @@
+Document Title: Establishing mixed CEAs and re-establishing CEAs for planting methodologies using the reforestation modelling tool (RMT)
+Document Type: Web Page
+Source URL: https://cer.gov.au/schemes/australian-carbon-credit-unit-scheme/accu-scheme-methods/reforestation-environmental-or-mallee-plantings-fullcam-method-2014/establishing-mixed-ceas-and-re-establishing-ceas-planting-methodologies-using-reforestation
+Extraction Date: 2025-08-28 13:19:00
+Content Length: 6471 characters
+Action/Task: Managing, monitoring or varying projectsCalculating abatement and creditingReporting and audits
+Method Families: Vegetation - Plantings and forestry
+Guidance Type: Regulatory
+Currency: Latest version
+Source: main_table
+--------------------------------------------------------------------------------
+
+Environmental plantings
+and
+mallee methodology determinations
+use the reforestation modelling tool (RMT) when calculating abatement. For both methodology determinations there are situations where establishing and re-establishing mixed carbon estimation areas are complex. These situations require specific RMT inputs.
+Establishing CEAs using mixed methods
+If a carbon estimation area (CEA) is established using both direct seeding and tree planting methods it may not be feasible to stratify the CEA into seeded and planted areas. In these cases, the CEA must be modelled in the RMT using the direct seeding setting. There is one exception to the rule and that is when evidence of the density of planted stems proves the need for a tree planting density setting.
+Re-establishing CEAs where re-stratification is required
+If there is partial failure of a seeding or planting, a project may be left with a successful portion of a CEA and an unsuccessful portion that needs to be re-established or excluded. Re-stratifying the area will create two new CEAs:
+The successful portion will retain the original seeding or planting details in the RMT.
+If re-established, the unsuccessful portion will use the new establishment date in the RMT.
+Re-establishing CEAs where re-stratification is not feasible
+If there is partial failure of seeds or stems that is spread across the whole CEA, it may not be feasible to re-stratify the area into successful and unsuccessful portions. In this situation you will need to re-establish the CEA and alter the inputs to the RMT accordingly (see tables below). This will retain the conservative modelling results of the RMT.
+How to use the RMT for re-establishing CEAs where re-stratification is not feasible
+When using the RMT select a "tree-planting-date" and "management-regime" for each CEA within your project.
+Tree-planting-date
+means when trees have been established (i.e. seeding or planting finish date).
+Management-regime
+means the establishment method and must be selected from:
+direct seeding
+low-density planting
+medium-density planting, or
+high-density planting.
+The tables below show the options for re-establishing CEAs where re-stratification is not feasible, and the settings to use in the RMT for possible scenarios. These options can be summarised as follows:
+If the original seeding or planting
+will not
+meet the definition of forest (20 per cent cover potential), the date the new planting occurs must be the date entered into the RMT. You must also enter the correct management-regime used for this new planting.
+If the original seeding or planting
+will
+meet the definition of forest (20 per cent cover potential) but another seeding or planting event is added using the same or a 'lower' management-regime than used previously (see numbered list of management-regimes above), the date of the first planting must be used in the RMT. For example, Bob used a medium-density planting as his original management-regime. When he adds another seeding or planting event, it will be either medium-density, low-density or direct seeding. It will not be a high-density management-regime.
+If the original seeding o​r planting
+will
+meet the definition of forest (20 per cent cover potential) but another seeding or planting event is added using a 'higher' management-regime than used previously, the date of the new planting may be used in the RMT. For example, Ruby used a medium-density planting as her original management-regime. When she adds another seeding or planting event, it will be high-density. It will not be direct seeding, low-density or a medium-density management regime.
+Modelling re-established CEAs in the RMT** (where re-stratification is not feasible)
+Level of success of original establishment* is less than 20% cover potential
+Level of success of original establishment*
+Original establishment method
+Method used for re-establishment
+Post re-establishment inputs for RMT
+Alternative acceptable inputs for RMT
+Less than 20% cover potential
+Seeding
+Seeding
+Date of re-establishment seeding; retain seeding as establishment method
+N/A
+Less than 20% cover potential
+Seeding
+Planting
+Date of re-establishment; planting as establishment method using stem density 1 according to planting only (not seeding)
+N/A
+Less than 20% cover potential
+Planting
+Seeding
+Date of re-establishment; seeding as establishment method
+N/A
+Less than 20% cover potential
+Planting
+Planting
+Date of re-establishment; planting as establishment method, using stem density 1 of new planting only (not seeding)
+N/A
+Level of success of original establishment* is over 20% cover potential
+Level of success of original establishment*
+Original establishment method
+Method used for re-establishment
+Post re-establishment inputs for RMT
+Alternative acceptable inputs for RMT
+Over 20% cover potential
+Seeding
+Seeding
+Date of original establishment; seeding as establishment method
+N/A
+Over 20% cover potential
+Seeding
+Planting
+Date of original establishment; seeding as establishment method
+Date of re-establishment; planting as establishment method using stem density 1 according to planting only (not seeding)
+Over 20% cover potential
+Planting
+Seeding
+Date of original establishment; planting as establishment method, using stem density 1 of surviving original planting only
+Date of original establishment; seeding as establishment method
+Over 20% cover potential
+Planting
+Planting
+Date of original establishment; planting as establishment method, using stem density 1 of surviving original planting only
+Date of re-establishment; planting as establishment method, using combined stem density 1 of original and additional planting
+Notes
+* Assessing whether the level of success of the original establishment has more or less than 20% cover potential, and providing evidence of same, may require use of the stem density table included in the explanatory statement to the methodology determinations, and time-stamped photos and/or aerial imagery. The assessment should be conservative.
+** This guidance is intended only for RMT modelling of re-established CEAs where the failure has happened in such a manner that re-stratification into successful and unsuccessful (re-established) areas is not feasible.
+1 "using stem density" refers to only those circumstances in which the relevant stem density is high enough to warrant use of the medium and high stem density setting in RMT. In all other circumstances, the low stem density setting must be used.

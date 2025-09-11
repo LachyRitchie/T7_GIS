@@ -1,0 +1,59 @@
+# RECIPE Template for Data Projects
+# Copy this template when completing a major data project
+
+name: [Project Name]
+version: 1.0
+created: [YYYY-MM-DD]
+author: [GIS Strategist + Engineer]
+effort_days: [X]
+backup_status: PENDING
+
+purpose: |
+  [Brief description of what this data layer provides]
+
+inputs:
+  - source: /03_BASE_DATA/CURRENT/[filename]
+    version: v1.0
+    size: [XGB]
+  - source: [additional inputs]
+
+processing_steps:
+  1_description: [What this step does]
+    script: ./PROCESSING/01_[name].sh
+    runtime: [X minutes]
+    
+  2_description: [What this step does]  
+    script: ./PROCESSING/02_[name].py
+    runtime: [X minutes]
+
+outputs:
+  final:
+    path: /03_BASE_DATA/DERIVED/[Name]_v1.0.tif
+    size: [XGB]
+    crs: EPSG:4326
+    resolution: 25m
+    extent: National
+    
+  intermediate:
+    - [List any important intermediate files]
+
+validation:
+  - Check extent matches Australia
+  - Verify NoData is 255
+  - Confirm resolution is exactly 25m
+  - Test sample values against source
+
+backup_instructions:
+  priority: HIGH
+  method: Physical drive
+  prompt: |
+    🛑 DATA PROJECT COMPLETE - BACKUP REQUIRED
+    1. Connect T7 Backup drive
+    2. Run: rsync -av --progress [this_folder] /Volumes/T7_Backup/
+    3. Update /01_SYSTEM/derived_data_registry.yml
+    4. Commit this RECIPE to GitHub
+
+recovery_time: [Estimated hours to recreate]
+
+notes: |
+  [Any special considerations, quirks, or warnings]

@@ -1,0 +1,75 @@
+Document Title: Dividing a project into parts for separate reporting
+Document Type: Web Page
+Source URL: https://cer.gov.au/schemes/australian-carbon-credit-unit-scheme/how-to-participate/making-changes-to-your-project/dividing-project-parts-separate-reporting
+Extraction Date: 2025-08-28 13:18:59
+Content Length: 4354 characters
+Action/Task: Managing, monitoring or varying projectsReporting and audits
+Method Families: All methods
+Guidance Type: Regulatory
+Currency: Latest version
+Source: main_table
+--------------------------------------------------------------------------------
+
+You can divide an Australian Carbon Credit Unit (ACCU) Scheme project into parts for reporting.
+When a project is divided, each part is treated like an independent project with the same conditions, reporting obligations and compliance requirements.
+This means you:
+submit
+individual project reports for each separate part
+apply for Australian carbon credit units (ACCUs)
+for each separate part.
+Legislation
+Section 77A of the
+Carbon Credits (Carbon Farming Initiative) Act 2011
+Carbon Credits (Carbon Farming Initiative) Rule 2015
+Before you divide a project
+Dividing a project will result in additional obligations because each separate part of the project must comply with the Act, the Rule and the
+applicable method
+. Before you proceed, make sure dividing the project is suitable for your circumstances and seek professional advice if required.
+Things to consider:
+Each part of the project will have independent reporting and record keeping requirements. Reporting requirements may be on different timelines.
+We may
+schedule or require additional audits for each part of the project
+. This is particularly relevant where a project is divided before the end of the first reporting period for the overall project because each separate part will require an initial audit.
+How to avoid gaps between offset reports. This is a risk if you divide a project and then later recombine it.
+How to divide a project
+You must give written notice
+via post or email
+to divide a project.
+Your notice must include:
+the project name and reference code for the relevant project
+the specific start and end dates for the division
+the number of parts the project will be divided into
+details of which sites will be in which part of the divided project. Each part must be easy to identify. You must provide a scaled map identifying the project area for each part for area-based projects.
+details of how the division meets the method requirements.
+Division period
+You can divide a project at any time during the project's crediting period. The division period must:
+end in the future
+not overlap with any periods you have previously reported on.
+For example, a project has a crediting period start date of 1 January 2017. It submitted its first offsets report for the period 1 January 2017 to 28 February 2018. A notice to divide the project on 1 May 2018 cannot specify that the division:
+starts on or before 28 February 2018 because that period has already been reported on, or
+ends on or before 1 May 2018 because the division end date must be in the future.
+After you submit
+After we receive a valid notice we will respond and:
+confirm the notice is valid
+confirm the project has been divided into parts for the specified period
+detail how to report on each part of the project
+confirm how the project’s audit schedule applies to each project part, if applicable.
+Dividing conditional projects
+If your project has conditional registration, each divided part is subject to the same condition(s) as the overall project.
+If the relevant condition(s) is satisfied for part of the project before the end of the first reporting period, a certificate of entitlement may be issued for that part of the project. The other parts must still satisfy any relevant condition(s) before the end of the first reporting period before a certificate of entitlement can be issued for those parts of the project.
+The project ‘recombines’ at the end of the specified period. Once the project recombines, the project in its entirety will be treated as conditional. You must report in relation to the overall project. Any relevant condition(s) must be met for the project in its entirety before ACCUs can be issued for the project.
+You can apply to remove the relevant condition(s) from the project declaration when the condition(s) has been met for the project in its entirety.
+Find out more
+Emissions reduction
+ACCU
+Apply for ACCUs
+Find out how to apply for Australian carbon credit units to sell on the secondary market or to the Australian Government.
+arrow_right_alt
+ACCU
+Forward abatement estimates
+Understand how you can estimate the total amount of carbon abatement for your Australian Carbon Credit Unit (ACCU) Scheme project.
+arrow_right_alt
+Audit
+Audits in our schemes
+Audits help us check if scheme participants are reporting accurately and complying with legislation.
+arrow_right_alt

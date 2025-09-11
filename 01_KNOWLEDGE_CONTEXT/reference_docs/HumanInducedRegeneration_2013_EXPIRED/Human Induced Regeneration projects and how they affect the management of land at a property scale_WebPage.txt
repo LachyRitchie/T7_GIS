@@ -1,0 +1,47 @@
+Document Title: Human Induced Regeneration projects and how they affect the management of land at a property scale
+Document Type: Web Page
+Source URL: https://cer.gov.au/schemes/australian-carbon-credit-unit-scheme/accu-scheme-methods/closed-methods/human-induced-regeneration-permanent-even-aged-native-forest-closed/human-induced-regeneration-projects-and-how-they-affect-management-land-property-scale
+Extraction Date: 2025-08-28 13:19:22
+Content Length: 3574 characters
+Action/Task: Planning and registering projectsManaging, monitoring or varying projects
+Method Families: Vegetation - Regeneration and avoided clearing
+Guidance Type: Regulatory
+Currency: Latest version(relates to a closed method)
+Source: main_table
+--------------------------------------------------------------------------------
+
+info
+Guidelines available
+​​On 8 May 2019, the Clean Energy Regulator released
+guidelines on stratification evidence and records for HIR and NFMR
+for projects under the human-induced regeneration and native forest from managed regrowth methods. The guidelines support the requirements in the
+Carbon Credits (Carbon Farming Initiative) Amendment Rule (No.2) 2018
+, the
+Carbon Credits (Carbon Farming Initiative) Amendment Rule (No.1) 2019
+, and key method eligibility requirements. The Clean Energy Regulator consulted with industry and technical experts to develop these guidelines.
+The guideline supersedes the
+Archived: Interim posture on crediting for NFMR and HIR projects
+and
+Archived: Operational policy on crediting for NFMR and HIR projects
+used to assess crediting abatement for human-induced regeneration and native forest from managed regrowth methods from November 2017 to May 2019.
+info
+Guidelines available
+Please note the guidance Human Induced Regeneration projects and how they affect the management of land at a property scale is available for download.
+Human Induced Regeneration projects and how they affect the management of land at a property scale guidance
+The human induced regeneration (HIR) method is designed to achieve forest cover by carrying out eligible activities that encourage regeneration of Australian native tree species that are indigenous to a project’s local area.
+Eligible activities must be conducted within a project area but may not occupy the entire space. It is important to understand how project areas are defined and what this means for managing the land. For more information about specific requirements, please refer to the relevant method.
+Project area
+For all area-based Australian Carbon Credit Unit Scheme projects, the project area refers to the area of land on which the project activities have been, are being, or are intended to be, implemented. In many cases the property boundary is used to define the project area.
+Non-project area
+A non-project area refers to land that is not part of a project area; for example, land that adjoins a project area that is managed for grazing purposes. Non-project areas are not regulated under the Australian Carbon Credit Unit Scheme.
+Carbon estimation area
+A carbon estimation area (CEA) is an area of land within a project area, where eligible project activities are carried out, and for which a project participant expects to receive Australian carbon credit units (ACCUs). These areas must be managed in accordance with the Emissions Reduction Fund legislation and the rules of the relevant method. Please refer to the method and the
+Interim operational policy—stratification of carbon estimation areas under the NFMR and HIR methods
+for further information on how to stratify a CEA.
+Exclusion area
+An exclusion area is any land within the project area on which project activities are not being carried out. Management of the exclusion area is not controlled under the Australian Carbon Credit Unit Scheme with the potential exception of where a
+carbon maintenance obligation (Part 8 of the
+Carbon Credits (Carbon Farming Initiative) Act 2011)
+is placed on the property. In that circumstance, landholders may be required to do or not do specific activities across the project area.
+However, should you decide to expand your HIR project by adding a new CEA from within the project area, management actions you take now may affect eligibility in the future.
+Figure 1: Illustrative example of a how a property may be managed for the twin purposes of a HIR project and grazing.

@@ -1,0 +1,29 @@
+# T7 Shield Cursor Configuration - Root Symlink
+# This file points to the actual configuration in 00_SYSTEM_CONTROL
+
+# Load the main configuration
+# The actual .cursorrules is at: 00_SYSTEM_CONTROL/.cursor/.cursorrules
+
+# AUTO-LOAD INSTRUCTIONS FOR GIS ENGINEER
+You are the GIS Engineer. Your primary system prompt is located at:
+/Volumes/T7 Shield/00_SYSTEM_CONTROL/prompts/GIS_ENGINEER.md
+
+Also reference these shared rules:
+- Naming: /Volumes/T7 Shield/00_SYSTEM_CONTROL/prompts/shared/NAMING_RULES.md
+- Execution: /Volumes/T7 Shield/00_SYSTEM_CONTROL/prompts/shared/EXECUTION_MATRIX.md
+- Compliance: /Volumes/T7 Shield/00_SYSTEM_CONTROL/prompts/shared/COMPLIANCE_REQUIREMENTS.md
+
+When instructed to "run end-of-project protocol", execute:
+/Volumes/T7 Shield/00_SYSTEM_CONTROL/protocols/END_OF_PROJECT.md
+
+# CRITICAL PATHS - UPDATED STRUCTURE
+- System Control: 00_SYSTEM_CONTROL/
+- Knowledge & Context: 01_KNOWLEDGE_CONTEXT/
+- Base Data: 02_BASE_DATA/
+- Data Projects: 03_DATA_PROJECTS/
+- Farm Assessments: 04_FARM_ASSESSMENT/
+- Templates: 05_TEMPLATES_LAYOUTS/
+- Python Environment: 06_PYTHON_ENVIRONMENT/
+- Scripts: 07_SCRIPTS/
+- Tools: 08_TOOLS/
+- Archive: 09_ARCHIVE/

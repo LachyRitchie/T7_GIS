@@ -1,0 +1,172 @@
+Document Title: Newness, regulatory additionality and government program requirements
+Document Type: Web Page
+Source URL: https://cer.gov.au/schemes/australian-carbon-credit-unit-scheme/how-to-participate/apply-to-participate/newness-regulatory-additionality-and-government-program-requirements
+Extraction Date: 2025-08-28 13:19:40
+Content Length: 10350 characters
+Action/Task: Planning and registering projects
+Method Families: All methods
+Guidance Type: Regulatory
+Currency: Latest version
+Source: main_table
+--------------------------------------------------------------------------------
+
+To be eligible for registration under the
+Australian Carbon Credit Unit (ACCU) Scheme
+, your project must:
+be new (the newness requirement)
+not be required by law (the regulatory additionality requirement)
+not be receiving financial support from specified government programs (the government program requirement).
+The newness requirement
+Only new projects are eligible under the ACCU Scheme. This means you can't start project activities until the project is registered (unless the project method specifies otherwise).
+The ACCU Scheme isn’t intended to support projects that are already underway or ‘business as usual’ activities.
+You will need to confirm the project has not started when you apply.
+What you can do before registration
+Show
+The method
+may permit you to start specific activities before you register the project.
+These can include:
+conducting feasibility studies
+planning or designing the project
+obtaining regulatory approvals
+obtaining consents
+obtaining advice
+conducting negotiations
+sampling to establish a baseline for the project
+an activity that is ancillary or incidental to any of the above.
+What you can’t do before registration
+Show
+There are some activities that indicate you have started your project. You should not conduct these activities before your project is registered. These can include:
+starting construction work for the project
+starting planting activities (for sequestration projects) including:
+preparing soil for seeding or planting
+seeding, planting or fertilising plants
+installing irrigation or drainage systems
+making a final investment decision about the project (unless the decision is conditional on the project being registered first)
+acquiring or leasing a tangible asset (other than land or minor assets) to use for the project (unless the acquisition or lease is conditional on the project being registered first).
+When you can start your project
+Show
+Your project must be registered before you can start it.
+A project isn’t registered until we’ve assessed and approved it. We will notify you in writing when the project is declared.
+It's important to remember that applying to register does not give you approval to start the project. You need to wait until we notify you the project is registered before you can start activities.
+If a project is registered and we later find it had commenced before registration, the registration may be invalid. The project won’t be issued ACCUs and you will have to return any already issued.
+Project registration does not replace or include relevant regulatory approvals or permits required to carry out the project’s activities. For example, fire permit requirements for savanna fire management projects.
+Final investment decisions
+Show
+An investment decision is made when an organisation decides how much money to invest in an ACCU Scheme project.
+A final investment decision occurs when an organisation enters an agreement they must follow through on. The agreement, outlining the organisation's rights and obligations in relation to the investment, acts as evidence of the final investment decision. It may not be considered a final investment decision if an agreement is conditional upon registration of an ACCU Scheme project.
+We know that grants may form just one of the many funding sources for a project, including ACCUs. To understand if getting a grant will breach your project's newness requirement,
+contact us
+before signing an agreement.
+Regulatory additionality
+Projects or activities required by law are not eligible under the ACCU Scheme.
+This is to make sure:
+ACCU projects are creating emissions reductions that wouldn't have otherwise happened
+mandatory projects don’t receive ACCUs.
+Regulatory requirements
+Show
+Regulatory requirements are rules written in documents and made under law. They can apply to specific industries or activities, and don't have to relate to specific projects. Examples include:
+Commonwealth, state or territory legislation
+guidelines set by state and territory environmental regulators with legislative effect
+licences
+permits
+consents (other than eligible interest holder)
+codes of practice with legislative effect
+environmental approvals
+development approvals
+local government area requirements.
+When you apply to register, we will ask you if the project or any part of it:
+must be carried out by or under a Commonwealth, state or territory law
+was mandatory under a Commonwealth, state or territory law that was repealed or amended so as not to be required from 24 March 2011.
+You should answer yes if:
+the project, or a part of it, must be conducted to fulfil a requirement set by a Commonwealth, state, or territory department, agency, or body
+there are Commonwealth, state or territory laws requiring the project activities, or any part of the project, be conducted to address non-compliance with regulatory approvals or permissions
+there were laws requiring an activity in the project, but the activity is no longer required because these laws were repealed or amended after 24 March 2011.
+How we assess regulatory additionality
+Show
+We assess regulatory additionality requirements on a case-by-case basis.
+A project will be eligible if:
+we are satisfied the activity goes beyond existing legal requirements
+the activity is covered by an ‘in lieu’ provision in the ACCU Scheme method, or
+there is a regulatory requirement to reduce or offset emissions, but there isn't an activity specified to meet the requirement. To help fulfil the requirement, you can
+establish an ACCU Scheme project and transfer the ACCUs
+to a specified Commonwealth Regulatory Additionality Holding Account in the Australian National Registry of Emissions Units (ANREU). These ACCUs can't be made available to the carbon market or used to meet
+Safeguard Mechanism obligations
+.
+We also consider if the:
+law or requirement allows a choice between a range of options and the project proponent has selected an activity that goes above what was required
+law requires a specific activity, but the project goes above the scale of activity outlined.
+Projects unlikely to meet the requirements
+Show
+Some projects are unlikely to meet the regulatory additionality requirement, unless one of the considerations above applies.
+This includes projects that involve:
+undertaking forestry activities for biodiversity objectives or offsets to satisfy development requirements
+planting trees to satisfy a condition of a development approval (for example, if planting is used as a visual screen, windbreak or for amenity)
+revegetating when it is the only option to satisfy biodiversity requirements imposed on a location
+upgrading the star rating of a building to meet star rating requirements in a local government area
+changing equipment to meet work health and safety requirements, such as in a remediation agreement
+undertaking an activity to control feral management in a national park where this is required by a management plan
+conducting mandatory activities under the Environment and Resource Efficiency Plans (EREP) program that ended in 2013 (Victoria only)
+conducting mandatory activities under repealed or amended vegetation protection laws (Queensland only).
+The government program requirement
+Projects receiving financial support under certain government programs or schemes may not be allowed to participate in the ACCU Scheme. This is so projects don’t receive ACCUs if they are also receiving incentives under another government program.
+The government program requirement only applies to certain programs. Your project will meet this requirement if it doesn't receive funding from a program listed here and doesn't include any excluded activities.
+Government programs
+Show
+Your project must not receive funding under the:
+20 Million Trees Program
+If your project includes activities that were previously funded by a program specified above, it may still be eligible. The project or activities must not currently receive funding from the programs listed.
+Excluded activities
+Show
+Your project must not include certain activities under the:
+Renewable Energy (Electricity) Act 2000
+(Cth)
+Electricity Supply Act 1995
+(NSW)
+Victorian Energy Efficiency Target Act 2007
+(VIC)
+Electricity (General) Regulations 2012 (SA)
+Gas Regulations 2012 (SA)
+Energy Efficiency (Cost of Living) Improvement Act 2012
+(ACT)
+Full details of excluded activities are included in
+section 21 of the Carbon Credits (Carbon Farming Initiative) Rule 2015
+.
+Your project may include these excluded activities if:
+the project’s method allows for abatement from the excluded activities to be subtracted from the project’s net abatement amount, or
+the excluded activity has only a minor or trivial impact on the abatement amount.
+Your obligations
+Show
+You will have to make a statement about whether you receive support from other government programs when you apply to register your project.
+If the project breaches the government program requirements, you must notify us of any offsets reports after the change:
+in writing
+within 60 days of becoming aware of the change.
+In-source funding or in-kind support
+Show
+Projects are still able to source funding or in-kind support from other government programs in some cases.
+For example:
+fire management projects may have rangers from Indigenous ranger programs
+some energy efficiency projects may get funding through investment schemes run by the Clean Energy Finance Corporation and Australian Renewable Energy Agency.
+Find out more
+Emissions reduction
+ACCU
+Eligibility for the ACCU Scheme
+Find out the requirements and criteria you must meet to register a project under the Australian Carbon Credit Unit (ACCU) Scheme.
+arrow_right_alt
+Emissions reduction
+ACCU
+Eligible interest-holder consent
+You need to get eligible interest-holder consent before you can receive ACCUs.
+arrow_right_alt
+ACCU
+Forward abatement estimates
+Understand how you can estimate the total amount of carbon abatement for your Australian Carbon Credit Unit (ACCU) Scheme project.
+arrow_right_alt
+ACCU
+Legal right and native title
+Find out how to obtain legal right and what consents and evidence you need to run an ACCU project.
+arrow_right_alt
+Emissions reduction
+ACCU
+Using an ACCU Scheme project to meet regulatory requirements
+Find out how regulated entities may be able to use ACCUs to meet their regulatory obligations.
+arrow_right_alt

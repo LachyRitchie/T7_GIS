@@ -1,0 +1,118 @@
++----------------------------------------------+-----------------------+-----------------------+
+| [![coat of                                   |                       | [](index.htm)         |
+| arms](imgs/DISER-inline_Mono.png){border="0" |                       |                       |
+| width="320"}](http://www.industry.gov.au)    |                       | # FullCAM Help        |
++----------------------------------------------+-----------------------+-----------------------+
+|                                              |                       |                       |
++----------------------------------------------+-----------------------+-----------------------+
+
+**Forest Productivity Index (FPI)**
+
+\[[Site : Productivity](64_Site_Productivity.htm) window : *Forest
+Productivity Index* button\]\
+This [Time Series Window](135_time-series%20window.htm) is where enter
+the forest productivity index (FPI) for the plot.
+
+**Forest Productivity Index (FPI)**
+
+This window provides options for computing the FPI, which is required if
+the tree yield formula is used to compute tree growth. It is a
+simplified variant of the 3PG model and produces a time-series (monthly
+or annual) index that is equivalent to a site class.
+
+As an alternative to calculating the FPI, a value from the NCAS
+modelling can be obtained for the latitude and longitude specified in
+the [Data Builder](132_Data%20Builder.htm) window.
+
+**Details**
+
+The FPI is used if the tree production method is the [Tree Yield
+Formula](130_Tree%20Yield%20Formula.htm) and the FPI is not calculated
+from scratch (see [Configure Tree
+Production](108_Configure%20Tree%20Production.htm)).
+
+The FPI is a dimensionless measure of site productivity due to soil,
+sunlight, rainfall, evaporation, and frost. The FPI varies during the
+year. The FPI is described in [NCAS Technical Report
+No.27](reps/TR27%20Biomass%20Estimation%20Approaches%20for%20Assessment%20of%20Stocks%20and%20Stock%20Change.pdf),
+with recent updates being described by Paul and Roxburgh (2019).
+Improved FullCAM-prediction of woody growth increments. Report prepared
+for the Department of the Environment and Energy. CSIRO Land and Water,
+Canberra.
+
+Enter the FPI as an "annualised rate", which is what the FPI would be if
+it continued at that rate for a whole year. Thus the FPI is like
+temperature (if only the annual figure is given, the annual figure
+applies in each month), rather than like rainfall (if only the annual
+figure is given, one twelfth of the annual figure in each month). In
+FullCAM, the FPI is always reported as an annualised rate.
+
+FPI values range from 0 to 100, but the average FPI over a year rarely
+exceeds 25. On a good site the FPI might vary between 6 in a poor month
+to 60 in the best month. However the average of the FPI over a year is
+rarely more than 25. Thus the yearly average of the numbers you enter
+should only exceed 25 for exceptionally productive sites.
+
+If actual site data is available, enter it in this time series. If not,
+use [Data Builder](132_Data%20Builder.htm) to download estimated monthly
+FPI. The derivation of this data is described in [NCAS Technical Report
+No.23](reps/TR23%20Developing%20a%20National%20Forest%20Productivity%20Model.pdf).
+
+The FullCAM model utilises the Tree Yield Formula (Eq. 1, Waterworth et
+al. 2007) to predict increments in above-ground biomass (AGB) within
+forests, woodlands, shrublands and plantations.
+
+AGB = M x *y* x \[exp(-k / A2) - exp(-k / A1) \] x (FPIt / FPIave)   
+**Eq. 1**
+
+where, AGB = Current annual increment in above-ground biomass (AGB, Mg
+DM ha-1 year-1) M is the maximum AGB in undisturbed native vegetation
+(Mg DM ha-1), and for Australian vegetation is estimated as:       M =
+(6.011 sqrt(FPIave) - 5.291)^2^ (Waterworth et al. 2007). *y* = value of
+the Type 2 multiplier to account for factors that increase growth
+potential at a given site (e.g. planting configuration, Snowdon 2002)
+A1, A2 = age (years) in year 1 and 2, respectively, etc. k = 2 x G -
+1.25, where G = tree age of maximum growth rate (years), FPIt = Annual
+Forest Productivity Index over the period A1 to A2, and is the sum of
+site factors (soil type, fertility and climate) driving growth,
+regardless of the type of planting or its age (Kesteven and Landsberg
+2004); and FPIave = mean long-term average annual forest productivity
+index, which is independent of age (Kesteven and Landsberg 2004).
+
+In FullCAM, inter-annual variation in climatic conditions (e.g.
+intermittent droughts) are accounted for by annually adjusting the TYF
+predicted increment in woody growth by the fraction:
+
+FPIt / FPIave    **Eq. 2**
+
+Hence, in a drought year where FPIt \< FPIave, the growth increments are
+adjusted down.
+
+Across the period of simulation, the average increment multiplier given
+in Eq. 2 needs to be close to 1.0 to enable the default TYF curve to
+attain the expected long-term maximum above-ground biomass of the stand
+(M) is attained. Due to the formulation of FullCAM\'s TYF, M will not be
+achieved if FPIave is less than the mean of the FPIt values for the
+years across which the simulation is run. Running a simulation over a
+period across which the average of the FPIt values are x% lower (or
+higher) than the FPIave will, for all years, result in biomass
+predictions that are x% lower (or higher than) the default TYF curve
+with a maximum AGB equal to M. Care is therefore required when
+considering the definition of FPIave. The definition of FPIave applied
+in the TYF is the average of the FPIt values between the years 1970 and
+2017. This definition of FPIave is what is downloaded automatically from
+the [Data Builder](132_Data%20Builder.htm). However, for years for which
+there is no FPI data available, and where the user has selected to
+extrapolate FPI data based on the average, FPIt is taken to be the
+average of the FPIt values observed over the period of simulation. To
+enable this, an exception is applied in the first year without an
+observed value for FPIt. For that year, an adjustment is applied to
+prevent the last year with an observed FPIt from having undue influence
+on estimates over time.
+
+------------------------------------------------------------------------
+
+© 2025 [Department of Industry, Science, Energy and
+Resources](http://www.industry.gov.au "Department of Industry, Science, Energy and Resources"),
+All Rights Reserved. Do not copy without permission.
+[Home](index.htm "help index")

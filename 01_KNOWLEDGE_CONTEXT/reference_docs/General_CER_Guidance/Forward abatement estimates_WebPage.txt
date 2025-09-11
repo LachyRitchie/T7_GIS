@@ -1,0 +1,76 @@
+Document Title: Forward abatement estimates
+Document Type: Web Page
+Source URL: https://cer.gov.au/schemes/australian-carbon-credit-unit-scheme/how-to-participate/apply-to-participate/forward-abatement-estimates
+Extraction Date: 2025-08-28 13:19:07
+Content Length: 3363 characters
+Action/Task: Planning and registering projects
+Method Families: All methods
+Guidance Type: Regulatory
+Currency: Latest version
+Source: main_table
+--------------------------------------------------------------------------------
+
+You must provide a forward abatement estimate when you
+apply to register an Australian Carbon Credit Units (ACCU) Scheme project
+.
+About forward abatement estimates
+Carbon abatement is removing greenhouse gases from the atmosphere or the avoidance of greenhouse gases. A forward abatement estimate is:
+an estimate of the total amount of carbon abatement
+in tonnes of carbon dioxide equivalent (tCO
+2
+-e)
+for your project.
+We use the forward abatement estimate to assign your project's
+audit schedule
+.
+There is no one 'right' way to calculate your forward abatement estimate.
+You will probably estimate the amount of abatement when you're planning your project. You can use the same figures you made these business decisions or gained financing with as your forward abatement estimate.
+Your forward abatement estimate is an estimate only. You should round it to the nearest 50,000 tCO
+2
+-e over the crediting period for your project.
+Crediting periods for calculating forward abatement estimates:
+Savanna burning projects – 25 years.
+Certain animal effluent and landfill gas projects - up to 12 years.
+All other emissions avoidance projects – 7 years.
+Avoided deforestation projects – 15 years.
+All other sequestration projects – 25 years.
+The crediting period for a project may not be the same as the contract period.
+To make a reasonable estimate you should:
+identify the activities you plan to undertake
+identify how many locations you will undertake activities at
+use the method calculations or other tools, including the
+solid waste calculator
+, or Department of Climate Change, Energy, the Environment and Water's
+FullCAM tool
+seek expert advice, like from an engineer, statistician or specialist consultant.
+You can use historical data to predict future performance if you:
+are transitioning a Carbon Farming Initiative project
+have undertaken similar activities under other state or territory schemes.
+When you are making estimates, make sure you consider the data in combination with understood peaks and abatement curves. This will help to prevent over or under estimating which can affect the number of audits issued.
+Over or under estimating
+We expect your forward abatement estimate and actual carbon abatement will vary.
+If you underestimate forward abatement and less audits were scheduled as a result,
+trigger variance audits may be required
+.
+If you think your abatement may significantly vary from your forward abatement estimate, you should consider the compliance costs of one or more trigger audits being applied to your project.
+If you overestimate your forward abatement, we may reduce the number of scheduled audits. We'll do this if your project reports show a large overestimation over time.
+Find out more
+Emissions reduction
+ACCU
+How to participate in the ACCU Scheme
+Follow these steps to learn how to run an Australian Carbon Credit Unit (ACCU) Scheme project.
+arrow_right_alt
+Emissions reduction
+ACCU
+Project reporting and audits
+Find out about the reporting and auditing obligations for Australian Carbon Credit Unit (ACCU) Scheme projects.
+arrow_right_alt
+Emissions reduction
+ACCU
+ACCU Scheme methods
+Learn about the different methods available for ACCU Scheme projects.
+arrow_right_alt
+Audit
+Audits in our schemes
+Audits help us check if scheme participants are reporting accurately and complying with legislation.
+arrow_right_alt

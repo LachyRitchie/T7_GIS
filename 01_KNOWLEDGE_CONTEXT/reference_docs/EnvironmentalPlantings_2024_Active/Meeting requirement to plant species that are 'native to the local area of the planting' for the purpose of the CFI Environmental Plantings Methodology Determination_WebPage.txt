@@ -1,0 +1,52 @@
+Document Title: Meeting requirement to plant species that are 'native to the local area of the planting' for the purpose of the CFI Environmental Plantings Methodology Determination
+Document Type: Web Page
+Source URL: https://cer.gov.au/schemes/australian-carbon-credit-unit-scheme/accu-scheme-methods/meeting-requirement-to-plant-species-are-native-to-local-area-planting-purpose-cfi-environmental
+Extraction Date: 2025-08-28 13:19:32
+Content Length: 5412 characters
+Action/Task: Planning and registering projectsManaging, monitoring or varying projects
+Method Families: Vegetation - Plantings and forestry
+Guidance Type: Regulatory
+Currency: Latest version(relates to a closed method)
+Source: main_table
+--------------------------------------------------------------------------------
+
+The Carbon Farming (Quantifying Carbon Sequestration by Permanent Environmental Plantings of Native Tree Species using the CFI Reforestation Modelling Tool) Methodology Determination 2012 can only be used by projects that involve the establishment of permanent plantings that are also environmental plantings. Such projects may be declared to be eligible offsets projects under the CFI if they also meet other eligibility requirements.
+Under CFI Regulation 3.34
+environmental planting
+means a planting that consists of species that:
+are native to the local area of the planting; and
+are sourced from seeds:
+from within the natural distribution of the species; and
+that are appropriate to the biophysical characteristics of the area of the planting; and
+may be a mix of trees, shrubs, and understorey species where the mix reflects the structure and composition of the local native vegetation community.
+The following clarification is provided for the requirement in relation to species for sub-paragraph (a) above.
+Examples of what planting is and isn't "native to the local area"
+"Native to the local area of the planting" may be:
+evidenced in relevant vegetation records as native to the project area; or
+present as long-undisturbed vegetation in exclusion zones within the project area, or in nearby areas of similar soil type and topography; or
+present as long-undisturbed vegetation in areas outside the project area but within the same land title(s) as the project; or
+evidenced in relevant vegetation records or as long-undisturbed vegetation within the vegetation sub/region the project area is located in, where that sub/region is homogeneous in terms of climate, landforms and soil types
+"Native to the local area of the planting" is not:
+native to elsewhere in Australia; or
+native to elsewhere within the state or territory; or
+native to elsewhere within the vegetation sub/region of the project, unless that sub/region is homogeneous in terms of climate, landforms and soil types
+Demonstrating that a planting consists of species native to the local area of the planting
+Examples of establishment approaches that
+meet
+the requirement:
+Proponent A orders tubestock of native species from their local nursery for the purpose of establishing a permanent environmental planting for a CFI project on their property. The proponent consults their catchment management authority (CMA) on what species are appropriate to their project area. The CMA confirms the species they are ordering occur naturally in their locality. The proponent seeks advice from the nursery on the seed sources used and the nursery confirms that it raises its tubestock from seeds sourced within the same area.
+Proponent B is planning several CFI projects in several localities in one state. Prior to planting any of their project areas, they consult the state's land management agency for advice on appropriate species. The agency advises them that their plantings will be in different subregions of that state or territory's vegetation mapping and to select species according to the agency's published data on vegetation communities. This is data the agency publishes directly on the web and contributes to a national database of vegetation.
+Proponent C has surveyed remnant native vegetation on areas within their property boundary and in nearby areas of similar soil type and topography. They have also consulted with their CMA on what tree species are native to the area on which they plan to establish their project. They establish their planting using locally sourced tubestock and seed collected from the remnant vegetation on their property.
+Examples of establishment approaches that
+do not meet
+the requirement:
+Proponent D has an established planting on their property in Queensland. They have planted predominantly Southern Blue Gum, due to their good growth potential. This species is not regarded as native to the local area of the planting by either the CMA or the state land management agency.
+Proponent E has planted tree species that occur near to the project area, but in areas that vary markedly from the project area in terms of soil type and topography. The tubestock planted have been sourced from areas where the species are native to that local area, but are a considerable distance away, with different rainfall zones and soil types.
+Obtaining advice on appropriate species for the local area of your planting
+To identify the most appropriate species for planting in your area you may wish to seek guidance from your state or territory land management agency.
+Links to vegetation mapping sites
+provided by these agencies can be found on the Department of Sustainability, Environment, Water, Population and Community website.
+The Department of Sustainability, Environment, Water, Population and Community also publishes a
+map of bior​egions
+. These are based largely on data provided by the state and territory land management agencies, and may be used in conjunction with information available from other organisations.
+Your natural resource management (NRM) regional body and/or catchment management authority (CMA) may also be able to assist. Other organisations that may be able to assist include the Australian National Botanical Gardens, the Australian Native Plants Society, Landcare or your local nursery. Your local city or shire council's environment department may also be able to provide advice.
