@@ -107,24 +107,32 @@ def load_kml_boundary(file_path, property_name):
 # =============================================================================
 
 def validate_inputs(project_path, kml_path=None):
-    """Validate input paths and find KML if not specified"""
+    """Validate input paths and find KML in WORKFLOW_INPUTS folder"""
     project_path = Path(project_path)
     
     if not project_path.exists():
         raise ValueError(f"Project path does not exist: {project_path}")
     
-    # Find KML file if not specified
+    # Check for WORKFLOW_INPUTS folder
+    workflow_inputs = project_path / "WORKFLOW_INPUTS"
+    if not workflow_inputs.exists():
+        raise ValueError(f"WORKFLOW_INPUTS folder not found in project directory: {project_path}")
+    
+    # Find KML file in WORKFLOW_INPUTS folder
     if kml_path is None:
-        kml_files = list(project_path.glob("*.kml"))
+        kml_files = list(workflow_inputs.glob("*.kml"))
         if not kml_files:
-            raise ValueError(f"No KML files found in project directory: {project_path}")
+            raise ValueError(f"No KML files found in WORKFLOW_INPUTS folder: {workflow_inputs}")
         elif len(kml_files) > 1:
-            print(f"⚠️  Multiple KML files found, using: {kml_files[0].name}")
+            print(f"⚠️  Multiple KML files found in WORKFLOW_INPUTS, using: {kml_files[0].name}")
         kml_path = kml_files[0]
     else:
         kml_path = Path(kml_path)
         if not kml_path.exists():
             raise ValueError(f"KML file does not exist: {kml_path}")
+        # Verify it's in WORKFLOW_INPUTS folder
+        if not str(kml_path).startswith(str(workflow_inputs)):
+            raise ValueError(f"KML file must be in WORKFLOW_INPUTS folder: {workflow_inputs}")
     
     return project_path, kml_path
 

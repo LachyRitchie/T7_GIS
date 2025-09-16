@@ -42,14 +42,14 @@ python main_workflow.py \
 ```bash
 python main_workflow.py --project_path "/Volumes/T7 Shield/04_FARM_ASSESSMENT/Smithfield_EP_NSW_2025-01"
 ```
-- Automatically finds KML file in project folder
+- Automatically finds KML file in `WORKFLOW_INPUTS/` folder
 - Uses "Smithfield" as property name (from folder name)
 
 #### Process with Specific KML
 ```bash
 python main_workflow.py \
   --project_path "/Volumes/T7 Shield/04_FARM_ASSESSMENT/Smithfield_EP_NSW_2025-01" \
-  --kml_name "corrected_boundary.kml"
+  --kml_name "WORKFLOW_INPUTS/corrected_boundary.kml"
 ```
 
 #### Process with Custom Property Name
@@ -64,7 +64,8 @@ python main_workflow.py \
 ### Farm Assessment Project Structure
 ```
 /04_FARM_ASSESSMENT/PropertyName_Method_State_Date/
-├── PropertyName.kml          # Property boundary (required)
+├── WORKFLOW_INPUTS/          # Required: User places KML here
+│   └── PropertyName.kml      # Property boundary (required)
 ├── other_files...            # Other project files
 └── WORKFLOW_OUTPUTS/         # Created by workflow
     ├── woody_masks/          # Generated masks go here
@@ -72,10 +73,11 @@ python main_workflow.py \
 ```
 
 ### KML File Requirements
+- **Location**: Must be in `WORKFLOW_INPUTS/` folder within the project
 - **Format**: Standard KML with polygon coordinates
 - **Structure**: Must contain `<coordinates>` element
 - **Geometry**: Single polygon (first polygon used if multiple)
-- **Location**: Anywhere in project folder (auto-detected)
+- **Naming**: Any `.kml` filename (first one found if multiple)
 
 ### Supported KML Examples
 ```xml

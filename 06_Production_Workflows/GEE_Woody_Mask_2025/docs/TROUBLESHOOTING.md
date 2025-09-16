@@ -60,21 +60,41 @@ earthengine authenticate
 
 ### 2. KML File Issues
 
-#### Problem: No KML Files Found
+#### Problem: WORKFLOW_INPUTS Folder Missing
 ```
-❌ No KML files found in project directory: /path/to/project
+❌ WORKFLOW_INPUTS folder not found in project directory: /path/to/project
 ```
 
 **Solutions:**
 ```bash
-# Check if KML files exist
-ls -la /path/to/project/*.kml
+# Create the WORKFLOW_INPUTS folder
+mkdir -p /path/to/project/WORKFLOW_INPUTS
+
+# Move KML file to WORKFLOW_INPUTS folder
+mv /path/to/project/boundary.kml /path/to/project/WORKFLOW_INPUTS/
+
+# Verify structure
+ls -la /path/to/project/WORKFLOW_INPUTS/
+```
+
+#### Problem: No KML Files Found
+```
+❌ No KML files found in WORKFLOW_INPUTS folder: /path/to/project/WORKFLOW_INPUTS
+```
+
+**Solutions:**
+```bash
+# Check if WORKFLOW_INPUTS folder exists
+ls -la /path/to/project/WORKFLOW_INPUTS/
+
+# Check if KML files exist in WORKFLOW_INPUTS
+ls -la /path/to/project/WORKFLOW_INPUTS/*.kml
 
 # Specify KML file explicitly
-python main_workflow.py --project_path "/path/to/project" --kml_name "boundary.kml"
+python main_workflow.py --project_path "/path/to/project" --kml_name "WORKFLOW_INPUTS/boundary.kml"
 
 # Check file permissions
-ls -la /path/to/project/boundary.kml
+ls -la /path/to/project/WORKFLOW_INPUTS/boundary.kml
 ```
 
 #### Problem: Invalid KML Format

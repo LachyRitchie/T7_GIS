@@ -53,7 +53,7 @@ python main_workflow.py --project_path "/Volumes/T7 Shield/04_FARM_ASSESSMENT/Bo
 ```bash
 python main_workflow.py \
   --project_path "/Volumes/T7 Shield/04_FARM_ASSESSMENT/Bonza_EP_WA_2025-01" \
-  --kml_name "property_boundary.kml"
+  --kml_name "WORKFLOW_INPUTS/property_boundary.kml"
 ```
 
 ### With Custom Configuration
@@ -68,7 +68,8 @@ python main_workflow.py \
 ### Farm Assessment Project Structure
 ```
 /04_FARM_ASSESSMENT/PropertyName_Method_State_Date/
-├── PropertyName.kml          # Property boundary (auto-detected)
+├── WORKFLOW_INPUTS/          # Required: User places KML here
+│   └── PropertyName.kml      # Property boundary (required)
 ├── other_files...            # Other project files
 └── WORKFLOW_OUTPUTS/         # Created by workflow
     ├── woody_masks/          # Generated masks go here
@@ -76,9 +77,11 @@ python main_workflow.py \
 ```
 
 ### KML File Requirements
-- Must contain valid polygon coordinates
-- Standard KML format with `<coordinates>` element
-- Single polygon per file (first polygon used if multiple)
+- **Location**: Must be in `WORKFLOW_INPUTS/` folder within the project
+- **Format**: Must contain valid polygon coordinates
+- **Structure**: Standard KML format with `<coordinates>` element
+- **Geometry**: Single polygon per file (first polygon used if multiple)
+- **Naming**: Any `.kml` filename (first one found if multiple)
 
 ## Output Structure
 
@@ -156,9 +159,9 @@ Create a custom JSON file to override defaults:
 
 #### KML File Not Found
 ```
-❌ No KML files found in project directory
+❌ No KML files found in WORKFLOW_INPUTS folder
 ```
-**Solution**: Ensure KML file exists in project folder or specify with `--kml_name`
+**Solution**: Ensure KML file exists in `WORKFLOW_INPUTS/` folder within the project
 
 #### Google Drive Not Accessible
 ```

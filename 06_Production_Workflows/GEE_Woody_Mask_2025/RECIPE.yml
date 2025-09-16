@@ -12,12 +12,14 @@ status: Active
 inputs:
   - type: kml
     description: "Property boundary KML file"
-    location: "Farm Assessment project folder"
+    location: "WORKFLOW_INPUTS folder within Farm Assessment project"
     required: true
     validation:
+      - "Must be located in WORKFLOW_INPUTS/ folder"
       - "Must contain valid polygon coordinates"
       - "Standard KML format with <coordinates> element"
       - "Single polygon per file (first polygon used if multiple)"
+      - "Any .kml filename (first one found if multiple)"
 
 # Output Specifications
 outputs:
@@ -155,7 +157,7 @@ examples:
   with_specific_kml: |
     python main_workflow.py \
       --project_path "/Volumes/T7 Shield/04_FARM_ASSESSMENT/Bonza_EP_WA_2025-01" \
-      --kml_name "property_boundary.kml"
+      --kml_name "WORKFLOW_INPUTS/property_boundary.kml"
   
   with_custom_config: |
     python main_workflow.py \
