@@ -1,0 +1,170 @@
+workflow: GEE_Woody_Mask_2025
+version: 1.0
+description: "Generates woody vegetation masks using Sentinel-2 NDVI via Google Earth Engine"
+
+# Workflow Metadata
+author: GIS Engineer
+created: 2025-01-23
+category: Production Workflow
+status: Active
+
+# Input Requirements
+inputs:
+  - type: kml
+    description: "Property boundary KML file"
+    location: "Farm Assessment project folder"
+    required: true
+    validation:
+      - "Must contain valid polygon coordinates"
+      - "Standard KML format with <coordinates> element"
+      - "Single polygon per file (first polygon used if multiple)"
+
+# Output Specifications
+outputs:
+  - type: tif
+    count: 5
+    naming: "Woody{Method}_{FarmName}_{Date}.tif"
+    location: "project_folder/WORKFLOW_OUTPUTS/woody_masks/"
+    specifications:
+      format: GeoTIFF
+      crs: EPSG:4326
+      scale: 10m
+      compression: LZW with cloud optimization
+      noData: 255
+      values: "0 (suitable), 1 (woody vegetation)"
+    methods:
+      - name: Original
+        description: "Score > 0.15 - Still very strong!"
+      - name: RefinedB
+        description: "Score + Vegetation History - Very strong! Might catch recent clearing"
+      - name: RefinedC
+        description: "Score + P25 - Tiny bit more precise potentially"
+      - name: RefinedD
+        description: "Score > 0.16 - So good! A little more liberal"
+      - name: RefinedE
+        description: "Combined - Indistinguishable from Original Best"
+
+# Dependencies
+dependencies:
+  python: ">=3.11"
+  packages:
+    - earthengine-api>=0.1.370
+    - numpy>=1.24.0
+    - pandas>=2.0.0
+    - pyyaml>=6.0
+    - tqdm>=4.64.0
+  external:
+    - google-earth-engine
+    - google-drive-access
+    - sentinel-2-data
+
+# Execution Parameters
+execution:
+  estimated_time: "5-30 minutes (property size dependent)"
+  requires_auth: "Google Earth Engine"
+  resources:
+    memory: "2GB minimum"
+    disk: "100MB temporary"
+    network: "Stable internet for GEE access"
+  
+  # Processing stages
+  stages:
+    - name: "Initialization"
+      duration: "30 seconds"
+      description: "Load KML, initialize GEE, validate inputs"
+    
+    - name: "Sentinel-2 Processing"
+      duration: "2-10 minutes"
+      description: "Load and process Sentinel-2 NDVI data"
+    
+    - name: "Mask Generation"
+      duration: "1-5 minutes"
+      description: "Calculate 5 woody mask methods"
+    
+    - name: "GEE Export"
+      duration: "1-10 minutes"
+      description: "Export masks to Google Drive"
+    
+    - name: "File Monitoring"
+      duration: "1-15 minutes"
+      description: "Monitor GEE_Outbox and move completed files"
+
+# Configuration Options
+configuration:
+  required:
+    project_path: "Path to Farm Assessment project folder"
+  
+  optional:
+    kml_name: "Specific KML filename (auto-detected if not provided)"
+    config: "Path to custom configuration JSON file"
+    property_name: "Property name override (auto-detected from folder if not provided)"
+  
+  defaults:
+    date_start: "2019-01-01"
+    date_end: "2025-01-01"
+    scale: 10
+    crs: "EPSG:4326"
+    poll_interval: 30
+    max_wait: 1800
+
+# Quality Assurance
+validation:
+  pre_execution:
+    - "KML file exists and is valid"
+    - "GEE authentication active"
+    - "Google Drive accessible"
+    - "Project folder structure correct"
+  
+  post_execution:
+    - "All 5 output files generated"
+    - "Files moved to correct location"
+    - "File sizes reasonable (>1MB each)"
+    - "GEE_Outbox cleaned up"
+
+# Error Handling
+error_handling:
+  common_issues:
+    - issue: "GEE authentication failed"
+      solution: "Run 'earthengine authenticate'"
+    
+    - issue: "KML file not found"
+      solution: "Ensure KML exists in project folder or specify with --kml_name"
+    
+    - issue: "Google Drive not accessible"
+      solution: "Check Google Drive mount and folder permissions"
+    
+    - issue: "Processing timeout"
+      solution: "Check GEE_Outbox manually, files may still be processing"
+
+# Performance Metrics
+performance:
+  small_property: "<100ha: 2-5 minutes"
+  medium_property: "100-1000ha: 5-15 minutes"
+  large_property: ">1000ha: 15-30 minutes"
+  
+  file_sizes:
+    small: "1-5MB per file"
+    medium: "5-20MB per file"
+    large: "20-100MB per file"
+
+# Usage Examples
+examples:
+  single_property: |
+    python main_workflow.py --project_path "/Volumes/T7 Shield/04_FARM_ASSESSMENT/Bonza_EP_WA_2025-01"
+  
+  with_specific_kml: |
+    python main_workflow.py \
+      --project_path "/Volumes/T7 Shield/04_FARM_ASSESSMENT/Bonza_EP_WA_2025-01" \
+      --kml_name "property_boundary.kml"
+  
+  with_custom_config: |
+    python main_workflow.py \
+      --project_path "/Volumes/T7 Shield/04_FARM_ASSESSMENT/Bonza_EP_WA_2025-01" \
+      --config "/path/to/custom_config.json"
+
+# Maintenance
+maintenance:
+  last_tested: 2025-01-23
+  test_environment: "T7 Shield GIS Professional"
+  known_issues: "None"
+  update_schedule: "As needed for GEE API changes"

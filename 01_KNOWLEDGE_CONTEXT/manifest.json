@@ -1,0 +1,188 @@
+{
+    "last_updated_utc": "2025-09-15T03:00:00.000000",
+    "knowledge_version": "4.0",
+    "structure_reorganized": "2025-09-15",
+    "total_documents": 89,
+    "content_categories": [
+        {
+            "category": "lessons_learned",
+            "path": "/Volumes/T7 Shield/01_KNOWLEDGE_CONTEXT/lessons_learned/",
+            "last_updated": "2025-09-15",
+            "documents": [
+                {
+                    "source": "CRITICAL_LEARNING_SUMMARY.md",
+                    "description": "Master summary of critical patterns, failures, and production methods",
+                    "status": "PRODUCTION_READY",
+                    "version": "4.0"
+                },
+                {
+                    "source": "by_category/visualization_exports/binary_mask_workflow_complete_v4.0.md",
+                    "description": "Complete authoritative guide for GEE exports and Google Earth visualization",
+                    "status": "PRODUCTION_READY",
+                    "version": "4.0",
+                    "replaces": ["GEE_Binary_Exports.md", "binary_mask_visualization_complete.md", "binary_mask_primary_method_2025-09-08.md"]
+                },
+                {
+                    "source": "by_category/visualization_exports/google_earth_compatibility_issues.md",
+                    "description": "Google Earth compatibility guidance",
+                    "status": "ACTIVE"
+                },
+                {
+                    "source": "by_category/visualization_exports/validation_rules.md",
+                    "description": "Validation rules for exports",
+                    "status": "ACTIVE"
+                },
+                {
+                    "source": "gee_python_api_syntax_errors_2025-01-23.md",
+                    "description": "Google Earth Engine Python API syntax patterns",
+                    "status": "REFERENCE"
+                },
+                {
+                    "source": "session_reviews/2025-09-08_session_review_binary_mask_pipeline.md",
+                    "description": "Session review of binary mask pipeline development",
+                    "status": "ARCHIVED"
+                },
+                {
+                    "source": "session_reviews/2025-09-09_state_geotiff_creation_success.md",
+                    "description": "Session review of state GeoTIFF creation success",
+                    "status": "ARCHIVED"
+                },
+                {
+                    "source": "by_category/visualization_exports/ARCHIVED_v3/",
+                    "description": "Archived binary mask documents (v1-v3)",
+                    "status": "ARCHIVED",
+                    "note": "Superseded by v4.0 consolidated document"
+                }
+            ]
+        },
+        {
+            "category": "reference_docs",
+            "path": "/Volumes/T7 Shield/01_KNOWLEDGE_CONTEXT/reference_docs/",
+            "last_updated": "2025-08-07",
+            "documents": [
+                {
+                    "source": "EnvironmentalPlantings_2024_Active/",
+                    "description": "Active Environmental Plantings Method documentation (2024)",
+                    "files": ["EP2024-Determination.pdf", "EP2024-FullCAM-Guidelines.pdf", "EP2024-Explanatory-Statement.pdf"],
+                    "status": "CURRENT_ACTIVE"
+                },
+                {
+                    "source": "EnvironmentalPlantings_2014_EXPIRED/",
+                    "description": "Expired Environmental Plantings Method documentation (2014)",
+                    "status": "EXPIRED_REFERENCE"
+                },
+                {
+                    "source": "PlantationForestry_2022_Active/",
+                    "description": "Active Plantation Forestry Method documentation (2022)",
+                    "status": "CURRENT_ACTIVE"
+                },
+                {
+                    "source": "HumanInducedRegeneration_2013_EXPIRED/",
+                    "description": "Expired Human Induced Regeneration Method documentation (2013)",
+                    "status": "EXPIRED_REFERENCE"
+                },
+                {
+                    "source": "SoilCarbon_2021_Active/",
+                    "description": "Active Soil Carbon Method documentation (2021)",
+                    "status": "CURRENT_ACTIVE"
+                },
+                {
+                    "source": "FullCAM/",
+                    "description": "Comprehensive FullCAM 2016 and 2020 documentation",
+                    "structure": "Consolidated batch documentation plus individual help files",
+                    "versions": ["2016", "2020"],
+                    "status": "COMPREHENSIVE_REFERENCE"
+                },
+                {
+                    "source": "General_CER_Guidance/",
+                    "description": "General Clean Energy Regulator guidance documents",
+                    "status": "REFERENCE"
+                },
+                {
+                    "source": "General_Overarching_Policy/",
+                    "description": "Overarching ACCU Scheme policy and legislative documents",
+                    "status": "REFERENCE"
+                },
+                {
+                    "source": "Google_Earth_Engine/",
+                    "description": "Google Earth Engine general resources and coding patterns",
+                    "status": "REFERENCE"
+                }
+            ]
+        },
+        {
+            "category": "successful_pipelines",
+            "path": "/Volumes/T7 Shield/01_KNOWLEDGE_CONTEXT/successful_pipelines/",
+            "last_updated": "2025-09-08",
+            "documents": [
+                {
+                    "source": "tested_workflows.yml",
+                    "description": "Validated workflows with success metrics and troubleshooting",
+                    "workflows": ["google_earth_binary_mask", "carbon_yield_heatmap", "native_title_clipping", "raster_alignment"],
+                    "status": "PRODUCTION_READY"
+                }
+            ]
+        }
+    ],
+    "critical_production_methods": [
+        {
+            "method": "Binary Mask Workflow v4.0",
+            "location": "lessons_learned/by_category/visualization_exports/binary_mask_workflow_complete_v4.0.md",
+            "status": "AUTHORITATIVE",
+            "scope": "GEE export + Google Earth visualization"
+        },
+        {
+            "method": "QGIS Rendered Export",
+            "location": "successful_pipelines/tested_workflows.yml",
+            "status": "PRODUCTION_READY",
+            "scope": "Binary masks to Google Earth"
+        },
+        {
+            "method": "gdaldem Color Relief",
+            "location": "successful_pipelines/tested_workflows.yml", 
+            "status": "PRODUCTION_READY",
+            "scope": "Continuous data heatmaps"
+        }
+    ],
+    "banned_methods": [
+        {
+            "method": "KMLSUPEROVERLAY",
+            "reason": "Incompatible with Google Earth Pro/Web",
+            "status": "PERMANENTLY_BANNED"
+        },
+        {
+            "method": "Direct binary mask to KMZ without RGBA",
+            "reason": "Creates unusable 480MB+ files",
+            "status": "PERMANENTLY_BANNED"
+        }
+    ],
+    "path_migration": {
+        "old_structure": "/Volumes/T7 Shield/08_KNOWLEDGE BASE/",
+        "new_structure": "/Volumes/T7 Shield/01_KNOWLEDGE_CONTEXT/",
+        "migration_date": "2025-09-15",
+        "notes": "All content reorganized and consolidated for better accessibility"
+    },
+    "content_statistics": {
+        "total_markdown_files": 45,
+        "total_pdf_files": 35,
+        "total_active_methods": 4,
+        "total_expired_methods": 2,
+        "lessons_learned_docs": 8,
+        "archived_docs": 4
+    },
+    "usage_guidelines": {
+        "primary_reference": "Always check CRITICAL_LEARNING_SUMMARY.md first",
+        "binary_masks": "Use binary_mask_workflow_complete_v4.0.md (ONLY authoritative source)",
+        "production_methods": "Reference successful_pipelines/tested_workflows.yml for validated approaches",
+        "accu_compliance": "Use appropriate reference_docs based on method (EP2024, PF2022, etc.)",
+        "version_control": "Version 4.0 is current production standard"
+    },
+    "search_priorities": [
+        "lessons_learned/CRITICAL_LEARNING_SUMMARY.md",
+        "lessons_learned/by_category/visualization_exports/binary_mask_workflow_complete_v4.0.md", 
+        "successful_pipelines/tested_workflows.yml",
+        "reference_docs/EnvironmentalPlantings_2024_Active/",
+        "reference_docs/PlantationForestry_2022_Active/",
+        "reference_docs/FullCAM/Consolidated/"
+    ]
+}

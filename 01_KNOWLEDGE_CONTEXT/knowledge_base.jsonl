@@ -1,0 +1,30 @@
+# Knowledge Base Migration Notice
+
+This file has been replaced with a new structured index system as of 2025-09-15.
+
+## New Index Location
+**Primary Index:** `knowledge_base_index.md` 
+**Manifest:** `manifest.json`
+
+## Migration Summary
+- **Old system:** Large JSONL file with chunked content (difficult to maintain)
+- **New system:** Structured markdown index with direct file references (practical and maintainable)
+- **Content:** All content reorganized in `/01_KNOWLEDGE_CONTEXT/` structure
+- **Status:** Version 4.0 production ready
+
+## Key Changes
+1. **Binary mask documentation:** Consolidated into single authoritative guide (v4.0)
+2. **Lessons learned:** Properly categorized and archived outdated content
+3. **Reference docs:** Organized by ACCU method and currency (active vs expired)
+4. **Successful pipelines:** Validated workflows with success metrics
+5. **Search strategy:** Clear priority order for finding information
+
+## Usage
+Instead of searching through JSONL chunks, use the structured index in `knowledge_base_index.md` which provides:
+- Quick access to critical production methods
+- Clear organization by category and status
+- Direct file paths and descriptions
+- Priority search strategy
+
+---
+*Legacy JSONL system deprecated 2025-09-15*

@@ -1,0 +1,17 @@
+{
+  "gee_outbox": "~/Library/CloudStorage/GoogleDrive-admin@relanature.com/My Drive/GEE_Outbox",
+  "output_subfolder": "WORKFLOW_OUTPUTS",
+  "expected_outputs": 5,
+  "poll_interval": 30,
+  "max_wait": 1800,
+  "date_start": "2019-01-01",
+  "date_end": "2025-01-01",
+  "scale": 10,
+  "crs": "EPSG:4326",
+  "max_pixels": 10000000000000,
+  "file_format": "GeoTIFF",
+  "format_options": {
+    "cloudOptimized": true,
+    "noData": 255
+  }
+}
